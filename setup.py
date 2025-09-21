@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="wbh-campus-scraper",
-    version="0.5.1",
+    version="0.5.2",
     author="Jonas Kern",
     author_email="info@jonaskern.de",
     description="Extract and process study data from WBH Online Campus HTML exports",

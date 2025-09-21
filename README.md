@@ -113,4 +113,4 @@ Jonas Kern - [info@jonaskern.de](mailto:info@jonaskern.de) - [https://jonaskern.
 
 ---
 
-*Version 0.5.1 - Hotfix*
+*Version 0.5.2 - Hotfix*
