@@ -1,0 +1,5038 @@
+{
+  "study_program": {
+    "id": 26397,
+    "number": "1320",
+    "name": "Maschinenbau-Informatik",
+    "degree_type": null
+  },
+  "modules": {
+    "547": {
+      "id": 547,
+      "name": "Einführung naturwissenschaftliche Ingenieurgrundlagen",
+      "code": "M_NWE",
+      "credit_points": 8,
+      "element_ids": [
+        218,
+        1217,
+        1223,
+        2858,
+        201,
+        2860
+      ],
+      "exam_ids": [
+        2860
+      ],
+      "study_material_ids": [
+        218,
+        1217,
+        1223,
+        2858,
+        201
+      ]
+    },
+    "1": {
+      "id": 1,
+      "name": "Einführungsprojekt für Ingenieure",
+      "code": "M_INGL",
+      "credit_points": 2,
+      "element_ids": [
+        795
+      ],
+      "exam_ids": [
+        795
+      ],
+      "study_material_ids": []
+    },
+    "480": {
+      "id": 480,
+      "name": "Grundlagen der Betriebswirtschaft und rechtliche Grundlagen",
+      "code": "M_BWM02",
+      "credit_points": 6,
+      "element_ids": [
+        913
+      ],
+      "exam_ids": [
+        913
+      ],
+      "study_material_ids": []
+    },
+    "3": {
+      "id": 3,
+      "name": "Mathematik I",
+      "code": "M_MAI I",
+      "credit_points": 8,
+      "element_ids": [
+        909
+      ],
+      "exam_ids": [
+        909
+      ],
+      "study_material_ids": []
+    },
+    "425": {
+      "id": 425,
+      "name": "Grundlagen der Informatik mit Labor",
+      "code": "M_GIL",
+      "credit_points": 6,
+      "element_ids": [
+        2416,
+        224,
+        690,
+        2502,
+        1140,
+        695,
+        225,
+        691,
+        2177,
+        2426,
+        823
+      ],
+      "exam_ids": [
+        2502,
+        1140,
+        2426
+      ],
+      "study_material_ids": [
+        2416,
+        224,
+        690,
+        695,
+        225,
+        691,
+        2177,
+        823
+      ]
+    },
+    "5": {
+      "id": 5,
+      "name": "Mathematik II",
+      "code": "M_MAI II",
+      "credit_points": 8,
+      "element_ids": [
+        911
+      ],
+      "exam_ids": [
+        911
+      ],
+      "study_material_ids": []
+    },
+    "548": {
+      "id": 548,
+      "name": "Naturwissenschaftliche Ingenieurgrundlagen",
+      "code": "M_NWI",
+      "credit_points": 8,
+      "element_ids": [
+        2863
+      ],
+      "exam_ids": [
+        2863
+      ],
+      "study_material_ids": []
+    },
+    "550": {
+      "id": 550,
+      "name": "Einführung in die Elektrotechnik und Elektronik",
+      "code": "M_EUE I",
+      "credit_points": 5,
+      "element_ids": [
+        1003,
+        1004,
+        1005,
+        706,
+        1011,
+        1006,
+        2864
+      ],
+      "exam_ids": [
+        1006,
+        2864
+      ],
+      "study_material_ids": [
+        1003,
+        1004,
+        1005,
+        706,
+        1011
+      ]
+    },
+    "564": {
+      "id": 564,
+      "name": "Mathematik III mit Labor",
+      "code": "M_MAI III L",
+      "credit_points": 4,
+      "element_ids": [
+        781,
+        782,
+        2919,
+        2920,
+        2921,
+        2922,
+        102,
+        682,
+        2923
+      ],
+      "exam_ids": [
+        2919,
+        2920,
+        2921
+      ],
+      "study_material_ids": [
+        781,
+        782,
+        2922,
+        102,
+        682,
+        2923
+      ]
+    },
+    "551": {
+      "id": 551,
+      "name": "Technische Mechanik",
+      "code": "M_TEM II",
+      "credit_points": 5,
+      "element_ids": [
+        2868,
+        2869,
+        2870,
+        2871,
+        2872,
+        4842,
+        4782
+      ],
+      "exam_ids": [
+        4842,
+        4782
+      ],
+      "study_material_ids": [
+        2868,
+        2869,
+        2870,
+        2871,
+        2872
+      ]
+    },
+    "565": {
+      "id": 565,
+      "name": "Werkstofftechnik",
+      "code": "M_WKM I",
+      "credit_points": 6,
+      "element_ids": [
+        1191
+      ],
+      "exam_ids": [
+        1191
+      ],
+      "study_material_ids": []
+    },
+    "562": {
+      "id": 562,
+      "name": "Investition und Finanzierung",
+      "code": "M_IUF I",
+      "credit_points": 2,
+      "element_ids": [
+        17,
+        21,
+        2877
+      ],
+      "exam_ids": [
+        2877
+      ],
+      "study_material_ids": [
+        17,
+        21
+      ]
+    },
+    "552": {
+      "id": 552,
+      "name": "Konstruktionslehre und Maschinenelemente I",
+      "code": "M_KON IV",
+      "credit_points": 6,
+      "element_ids": [
+        330,
+        1143,
+        4942,
+        4941,
+        4940,
+        4947,
+        1618,
+        1758,
+        2850
+      ],
+      "exam_ids": [
+        2850
+      ],
+      "study_material_ids": [
+        330,
+        1143,
+        4942,
+        4941,
+        4940,
+        4947,
+        1618,
+        1758
+      ]
+    },
+    "553": {
+      "id": 553,
+      "name": "Messtechnik",
+      "code": "M_MSS",
+      "credit_points": 6,
+      "element_ids": [
+        2852,
+        2853,
+        3445,
+        848,
+        2851
+      ],
+      "exam_ids": [
+        2851
+      ],
+      "study_material_ids": [
+        2852,
+        2853,
+        3445,
+        848
+      ]
+    },
+    "549": {
+      "id": 549,
+      "name": "Technische Thermodynamik und Fluidmechanik mit Labor",
+      "code": "M_TTFL",
+      "credit_points": 3,
+      "element_ids": [
+        1177,
+        1179,
+        2854,
+        2855,
+        2856,
+        1178,
+        1180,
+        1181,
+        2857,
+        1182
+      ],
+      "exam_ids": [
+        2854,
+        2855,
+        1181,
+        1182
+      ],
+      "study_material_ids": [
+        1177,
+        1179,
+        2856,
+        1178,
+        1180,
+        2857
+      ]
+    },
+    "563": {
+      "id": 563,
+      "name": "Führung und Kommunikation",
+      "code": "M_FKI I",
+      "credit_points": 2,
+      "element_ids": [
+        2874
+      ],
+      "exam_ids": [
+        2874
+      ],
+      "study_material_ids": []
+    },
+    "557": {
+      "id": 557,
+      "name": "Englisch",
+      "code": "M_TEZ I",
+      "credit_points": 2,
+      "element_ids": [
+        2881
+      ],
+      "exam_ids": [
+        2881
+      ],
+      "study_material_ids": []
+    },
+    "589": {
+      "id": 589,
+      "name": "Berufspraktische Phase",
+      "code": "M_BPP24",
+      "credit_points": null,
+      "element_ids": [
+        2217
+      ],
+      "exam_ids": [
+        2217
+      ],
+      "study_material_ids": []
+    },
+    "572": {
+      "id": 572,
+      "name": "Steuerungstechnik mit Labor",
+      "code": "M_ATM III",
+      "credit_points": 4,
+      "element_ids": [
+        2925,
+        2926,
+        349,
+        1418,
+        1420,
+        333,
+        651,
+        1419
+      ],
+      "exam_ids": [
+        1420,
+        651,
+        1419
+      ],
+      "study_material_ids": [
+        2925,
+        2926,
+        349,
+        1418,
+        333
+      ]
+    },
+    "199": {
+      "id": 199,
+      "name": "Betriebssysteme und Rechnerarchitektur",
+      "code": "M_BSRA",
+      "credit_points": 8,
+      "element_ids": [
+        738,
+        740,
+        741,
+        91,
+        69,
+        104,
+        681,
+        2218
+      ],
+      "exam_ids": [
+        2218
+      ],
+      "study_material_ids": [
+        738,
+        740,
+        741,
+        91,
+        69,
+        104,
+        681
+      ]
+    },
+    "581": {
+      "id": 581,
+      "name": "Konstruktionslehre und Maschinenelemente II",
+      "code": "M_KON V",
+      "credit_points": 6,
+      "element_ids": [
+        2928,
+        2929,
+        2031,
+        2032,
+        2403,
+        1759,
+        2930
+      ],
+      "exam_ids": [
+        2930
+      ],
+      "study_material_ids": [
+        2928,
+        2929,
+        2031,
+        2032,
+        2403,
+        1759
+      ]
+    },
+    "554": {
+      "id": 554,
+      "name": "Analoge Regelungstechnik mit Labor",
+      "code": "M_ARETL",
+      "credit_points": 4,
+      "element_ids": [
+        1165,
+        1168,
+        346,
+        3472,
+        1170,
+        1436,
+        2849,
+        3473
+      ],
+      "exam_ids": [
+        3472,
+        2849,
+        3473
+      ],
+      "study_material_ids": [
+        1165,
+        1168,
+        346,
+        1170,
+        1436
+      ]
+    },
+    "574": {
+      "id": 574,
+      "name": "CAD Techniken und Finite-Elemente-Simulation mit Labor",
+      "code": "M_CADL",
+      "credit_points": 6,
+      "element_ids": [
+        2848,
+        1144,
+        1023,
+        1025,
+        1079,
+        2845,
+        2846,
+        1036
+      ],
+      "exam_ids": [
+        2848,
+        1023,
+        1025
+      ],
+      "study_material_ids": [
+        1144,
+        1079,
+        2845,
+        2846,
+        1036
+      ]
+    },
+    "508": {
+      "id": 508,
+      "name": "Entwurf und Kommunikation eingebetteter Systeme",
+      "code": "M_EKE",
+      "credit_points": 8,
+      "element_ids": [
+        296,
+        297,
+        265,
+        292,
+        293,
+        2631
+      ],
+      "exam_ids": [
+        2631
+      ],
+      "study_material_ids": [
+        296,
+        297,
+        265,
+        292,
+        293
+      ]
+    },
+    "632": {
+      "id": 632,
+      "name": "Software Engineering für Ingenieure",
+      "code": "M_SEIC",
+      "credit_points": 6,
+      "element_ids": [
+        2178,
+        2539,
+        2179,
+        3448
+      ],
+      "exam_ids": [
+        3448
+      ],
+      "study_material_ids": [
+        2178,
+        2539,
+        2179
+      ]
+    },
+    "166": {
+      "id": 166,
+      "name": "Electronic and Mobile Services",
+      "code": "M_EMSE",
+      "credit_points": 6,
+      "element_ids": [
+        1349,
+        3638,
+        3639,
+        3640,
+        2687
+      ],
+      "exam_ids": [
+        2687
+      ],
+      "study_material_ids": [
+        1349,
+        3638,
+        3639,
+        3640
+      ]
+    },
+    "545": {
+      "id": 545,
+      "name": "Projektarbeit",
+      "code": "M_Projektarbeit7",
+      "credit_points": null,
+      "element_ids": [
+        3359,
+        7,
+        4347,
+        2146,
+        4358
+      ],
+      "exam_ids": [
+        2146
+      ],
+      "study_material_ids": [
+        3359,
+        7,
+        4347,
+        4358
+      ]
+    },
+    "633": {
+      "id": 633,
+      "name": "Netzwerktechnologie",
+      "code": "M_NWT",
+      "credit_points": 8,
+      "element_ids": [
+        5012,
+        5011,
+        5010,
+        5009,
+        5008,
+        5007,
+        3449
+      ],
+      "exam_ids": [
+        3449
+      ],
+      "study_material_ids": [
+        5012,
+        5011,
+        5010,
+        5009,
+        5008,
+        5007
+      ]
+    },
+    "143": {
+      "id": 143,
+      "name": "Thesis inkl. Kolloquium",
+      "code": "M_Thesis15",
+      "credit_points": null,
+      "element_ids": [
+        2147
+      ],
+      "exam_ids": [
+        2147
+      ],
+      "study_material_ids": []
+    }
+  },
+  "elements": [
+    {
+      "id": 850,
+      "code": "CSUSPrakt",
+      "name": "CSUS Praktikum",
+      "type": "learning_module",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4744,
+      "code": "Kompaktkurse",
+      "name": "Kompaktkurse buchen",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1050,
+      "code": "MAI17",
+      "name": "Lineare Algebra: Lineare Gleichungssysteme und Matrizen",
+      "type": "learning_module",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "MAI17_0725K12.pdf",
+          "content_type": "pdf",
+          "size": "1,50 MB",
+          "url": "/infoseiten/Lm/mai17/doc/MAI17_0725K12.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7730,
+      "code": "O-VGPT",
+      "name": "Vortrag: Anwendung von KI-Sprachmodellen (u.a. ChatGPT) beim wissenschaftlichen Schreiben",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7117,
+      "code": "Online-KlausurTEST",
+      "name": "Online-Klausur Testelement: Probeklausur",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 849,
+      "code": "Einf",
+      "name": "Einführungsveranstaltung",
+      "type": "seminar",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1305,
+      "code": "OS_DVD",
+      "name": "Open Source DVD",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2907,
+      "code": "SBB01e",
+      "name": "Wegweiser Bachelor",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3451,
+      "code": "SBMIB-PO1",
+      "name": "Fachlicher Studienbegleiter Maschinenbauinformatik (B.Eng.)",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SBMIB-PO1_1119K03.epub",
+          "content_type": "epub",
+          "size": "583,19 KB",
+          "url": "/infoseiten/Lm/sbmib-po1/doc/SBMIB-PO1_1119K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SBMIB-PO1_1119K03.pdf",
+          "content_type": "pdf",
+          "size": "1,05 MB",
+          "url": "/infoseiten/Lm/sbmib-po1/doc/SBMIB-PO1_1119K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SBMIB-PO1_1119K03.html",
+          "content_type": "html",
+          "size": "1.006,91 KB",
+          "url": "/infoseiten/Lm/sbmib-po1/doc/SBMIB-PO1_1119K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7955,
+      "code": "WBT-DSKI",
+      "name": "WBT Digital Skills und KI-Coaching",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 218,
+      "code": "WKM01",
+      "name": "Werkstoffwissenschaftliche Grundlagen",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "WKM01_A06.pdf",
+          "content_type": "pdf",
+          "size": "2,60 MB",
+          "url": "/infoseiten/Lm/wkm01/doc/WKM01_A06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1217,
+      "code": "WKM10",
+      "name": "Grundlagen der Werkstofftechnik I",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "WKM10__0618K10.pdf",
+          "content_type": "pdf",
+          "size": "5,79 MB",
+          "url": "/infoseiten/Lm/wkm10/doc/WKM10__0618K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "WKM10__0618K10.html",
+          "content_type": "html",
+          "size": "14,02 MB",
+          "url": "/infoseiten/Lm/wkm10/doc/WKM10__0618K10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "WKM10__0618K10.epub",
+          "content_type": "epub",
+          "size": "11,83 MB",
+          "url": "/infoseiten/Lm/wkm10/doc/WKM10__0618K10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1223,
+      "code": "WKM11",
+      "name": "Korrosion - Grundlagen und  Vermeidung",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "WKM11_A07.pdf",
+          "content_type": "pdf",
+          "size": "4,53 MB",
+          "url": "/infoseiten/Lm/wkm11/doc/WKM11_A07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "WKM11_0624A07.mp3",
+          "content_type": "mp3",
+          "size": "70,26 MB",
+          "url": "/infoseiten/Lm/wkm11/doc/WKM11_0624A07.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "WKM11_A07.epub",
+          "content_type": "epub",
+          "size": "7,38 MB",
+          "url": "/infoseiten/Lm/wkm11/doc/WKM11_A07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "WKM11_A07.html",
+          "content_type": "html",
+          "size": "12,84 MB",
+          "url": "/infoseiten/Lm/wkm11/doc/WKM11_A07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "WKM11_0624A07.zip",
+          "content_type": "zip",
+          "size": "91,61 MB",
+          "url": "/infoseiten/Lm/wkm11/doc/WKM11_0624A07.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 795,
+      "code": "B-ING01XX",
+      "name": "Einführungsprojekt für Ingenieure",
+      "type": "exam",
+      "study_month": 3,
+      "semester": 1,
+      "module_id": 1,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": "1.3",
+        "mark_label": "1.3",
+        "esa_send_date": "21.02.2023",
+        "esa_grade_date": "25.02.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 21.02.2023<br /><b>Benotungsdatum:</b> 25.02.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2858,
+      "code": "NWE01",
+      "name": "Einführung in die Technische Mechanik",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "NWE01_0819K04.epub",
+          "content_type": "epub",
+          "size": "9,54 MB",
+          "url": "/infoseiten/Lm/nwe01/doc/NWE01_0819K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "NWE01_0819K04.pdf",
+          "content_type": "pdf",
+          "size": "7,66 MB",
+          "url": "/infoseiten/Lm/nwe01/doc/NWE01_0819K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "NWE01_0819K04.html",
+          "content_type": "html",
+          "size": "16,38 MB",
+          "url": "/infoseiten/Lm/nwe01/doc/NWE01_0819K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 201,
+      "code": "PHM01",
+      "name": "Mechanik der festen Körper",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "PHM01_0424K14.epub",
+          "content_type": "epub",
+          "size": "9,67 MB",
+          "url": "/infoseiten/Lm/phm01/doc/PHM01_0424K14.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "PHM01_0424K14.html",
+          "content_type": "html",
+          "size": "15,94 MB",
+          "url": "/infoseiten/Lm/phm01/doc/PHM01_0424K14.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "PHM01_0424K14.pdf",
+          "content_type": "pdf",
+          "size": "11,18 MB",
+          "url": "/infoseiten/Lm/phm01/doc/PHM01_0424K14.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 913,
+      "code": "BWMBPS",
+      "name": "Grundlagen der Betriebswirtschaft und rechtliche Grundlagen",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 480,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Grundbegriffe Arbeitsrecht, Grundbegriffe BGB, Konstitutive Unternehmensentscheidungen, Kostenrechnung, Netzplantechnik, Allg. Teil BGB, Arbeitsrecht, Arbeitsvertrag, Beendigung Arbeitsverhältnis, Bewertung in der Unternehmensrechnung, Grundlagen betriebliche Prozessstrukturen, Investition und Finanzierung, Kündigung, Sachenrecht, Schuldrecht, Systembeziehungen eines Unternehmens, unternehmerisches Handeln, Wirtschaften als Erkenntnisgegenstand der BWL, betrieblicher Standort, Elemente des Marketing Mix (Kontrahierungspolitik, Produkpolitik, Distributionspolitik, Kommunikationspolitik, Gestaltungsrahmen der Unternehmensführung, Grundbegriffe der Organisation und ausgewählte und organisationstheoretische Ansätze, Managementfunktionen und -prozesse, Unterstützungsfunktionen und -prozesse, Betriebliche Ablaufstrukturen, Betriebliche Potenzialstrukturierung, Betriebsmittelpotenziale"
+      },
+      "mark_and_points": {
+        "mark": "2.0",
+        "mark_label": "2.0",
+        "esa_send_date": "13.10.2023",
+        "esa_grade_date": "24.10.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 13.10.2023<br /><b>Benotungsdatum:</b> 24.10.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 909,
+      "code": "MAM1BPS",
+      "name": "Mathematik",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 3,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Funktionen: Stetigkeit, Gerade und Ebene, Invertierung von Matrizen, Komplexe Zahlen, Lineare Gleichungssysteme, Relationen, Vollständige Induktion, Determinanten, Grenzwerte, Lineare Abhängigkeit, Mengen"
+      },
+      "mark_and_points": {
+        "mark": "3.7",
+        "mark_label": "3.7",
+        "esa_send_date": "28.06.2023",
+        "esa_grade_date": "29.06.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 28.06.2023<br /><b>Benotungsdatum:</b> 29.06.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2860,
+      "code": "NWEPS",
+      "name": "Einführung naturwissenschaftliche Ingenieurgrundlagen",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 547,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Abkühlkurven und Zustandsschaubilder, Atommodelle und Aufbau des Periodensystems, Impuls- und Energieerhaltung, Geradlinige Bewegung, Gleichgewicht starrer Körper, Säuren und Basen, Puffer, Bindungsarten, Gittertypen und Defekte, Korrosionsarten und Korrosionsschutz, Kunststoffe, Lagerreaktionen und Schnittgrößen, Oxidationszahl‑Berechnungen, Schwerpunktberechnungen, Zusammengesetzte Bewegung"
+      },
+      "mark_and_points": {
+        "mark": "1.0",
+        "mark_label": "1.0",
+        "esa_send_date": "11.07.2023",
+        "esa_grade_date": "15.07.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 11.07.2023<br /><b>Benotungsdatum:</b> 15.07.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2416,
+      "code": "GDI01",
+      "name": "Einführung in die Informatik",
+      "type": "learning_module",
+      "study_month": 7,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "GDI01_0723K15.html",
+          "content_type": "html",
+          "size": "10,66 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "GDI01_K15.pdf",
+          "content_type": "pdf",
+          "size": "2,40 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_K15.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "GDI01_0723K15.epub",
+          "content_type": "epub",
+          "size": "5,22 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "GDI01_0723K15.zip",
+          "content_type": "zip",
+          "size": "89,46 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "GDI01_0723K15.mp3",
+          "content_type": "mp3",
+          "size": "75,98 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 224,
+      "code": "INM01",
+      "name": "Datenstrukturen und Algorithmen Teil 1",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "INM01_0313K09.pdf",
+          "content_type": "pdf",
+          "size": "1,01 MB",
+          "url": "/infoseiten/Lm/inm01/doc/INM01_0313K09.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 690,
+      "code": "INMBU",
+      "name": "Technische Probleme lösen mit C/C++",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2502,
+      "code": "B-GIL01XX",
+      "name": "Laboreingangsprüfung Programmieren",
+      "type": "exam",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "ok",
+        "mark_label": "bestanden",
+        "esa_send_date": "31.10.2025",
+        "esa_grade_date": "09.11.2025",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 25.07.2022<br /><b>Zugewiesen am:</b> 08.08.2017<br /><b>Einsendung bis:</b> 04.02.2018<br /><b>Lösungseingang:</b> 31.10.2025<br /><b>Benotungsdatum:</b> 09.11.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1140,
+      "code": "B-INM03XX",
+      "name": "Laborabschlussprüfung Programmieren",
+      "type": "exam",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "2.0",
+        "mark_label": "2.0",
+        "esa_send_date": "09.05.2025",
+        "esa_grade_date": "17.05.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 09.05.2025<br /><b>Benotungsdatum:</b> 17.05.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 695,
+      "code": "INM-L",
+      "name": "Laborvorbereitung Programmieren",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "INM-L_0123A03.mp3",
+          "content_type": "mp3",
+          "size": "31,15 MB",
+          "url": "/infoseiten/Lm/inm-l/doc/INM-L_0123A03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "INM-L_0123A03.html",
+          "content_type": "html",
+          "size": "15,27 MB",
+          "url": "/infoseiten/Lm/inm-l/doc/INM-L_0123A03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "INM-L_0123A03.pdf",
+          "content_type": "pdf",
+          "size": "4,31 MB",
+          "url": "/infoseiten/Lm/inm-l/doc/INM-L_0123A03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "INM-L_0123A03.zip",
+          "content_type": "zip",
+          "size": "51,80 MB",
+          "url": "/infoseiten/Lm/inm-l/doc/INM-L_0123A03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "INM-L_0123A03.epub",
+          "content_type": "epub",
+          "size": "14,33 MB",
+          "url": "/infoseiten/Lm/inm-l/doc/INM-L_0123A03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 225,
+      "code": "INM02",
+      "name": "Datenstrukturen und Algorithmen Teil 2",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "INM02_1112K05.pdf",
+          "content_type": "pdf",
+          "size": "2,22 MB",
+          "url": "/infoseiten/Lm/inm02/doc/INM02_1112K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 691,
+      "code": "INMCD01",
+      "name": "Programmierübungen",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2177,
+      "code": "SEI11",
+      "name": "Phasenmodelle und Planung von Softwareprojekten",
+      "type": "learning_module",
+      "study_month": 11,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI11_0118K07.pdf",
+          "content_type": "pdf",
+          "size": "3,47 MB",
+          "url": "/infoseiten/Lm/sei11/doc/SEI11_0118K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SEI11_0118K07.html",
+          "content_type": "html",
+          "size": "7,96 MB",
+          "url": "/infoseiten/Lm/sei11/doc/SEI11_0118K07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI11_0118K07.epub",
+          "content_type": "epub",
+          "size": "8,04 MB",
+          "url": "/infoseiten/Lm/sei11/doc/SEI11_0118K07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2426,
+      "code": "GILPS",
+      "name": "Grundlagen der Informatik",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "C-Code, Entscheidungstabellen, ER-Diagramme, Klassendiagramme, Neumann Rechner, Struktogramme und Algorithmen, Vorgehensmodelle, Zahlensysteme"
+      },
+      "mark_and_points": {
+        "mark": "4.0",
+        "mark_label": "4.0",
+        "esa_send_date": "23.07.2024",
+        "esa_grade_date": "05.08.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 23.07.2024<br /><b>Benotungsdatum:</b> 05.08.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 823,
+      "code": "INMLab",
+      "name": "Labor Programmieren",
+      "type": "seminar",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 425,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 911,
+      "code": "MAM2BPS",
+      "name": "Mathematik II",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 5,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Extremwerte und Wendepunkte, Funktionen von zwei Variablen: Extrema, Integralberechnung, Lineare Differenzialgleichungen, Newtonverfahren, Partialbruchzerlegung, Reihen und Potenzreihen, Ableitungen, Differenzierbarkeit, Fourierreihe, Laplacetransformation, Tangente, Variation der Konstanten, Volumen von Rotationskörpern Grenzwerte"
+      },
+      "mark_and_points": {
+        "mark": "1.7",
+        "mark_label": "1.7",
+        "esa_send_date": "15.05.2025",
+        "esa_grade_date": "20.05.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 15.05.2025<br /><b>Benotungsdatum:</b> 20.05.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2863,
+      "code": "NWIPS",
+      "name": "Naturwissenschaftliche Ingenieurgrundlagen",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 548,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Auftrieb bei Flüssigkeiten und Gasen, Kreisprozesse, Magnetfeldstärke, Kräfte im Magnetfeld, Optische Abbildung bei Linsen, Verzweigte Gleichstromkreise, Wärmekapazität, Schmelzwärme, Verdampfungswärme, Ideale Gasgleichung, Kapazität und Kondensator, Kontinuitätsprinzip und Bernoulli-Gleichung, Lichtbrechung, Zustandsänderungen, Allgemeine Wellengleichung"
+      },
+      "mark_and_points": {
+        "mark": "1.7",
+        "mark_label": "1.7",
+        "esa_send_date": "16.03.2024",
+        "esa_grade_date": "18.03.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 16.03.2024<br /><b>Benotungsdatum:</b> 18.03.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1003,
+      "code": "EUE01",
+      "name": "Grundlagen und Grundelemente elektrischer Stromkreise",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EUE01_0520K06.pdf",
+          "content_type": "pdf",
+          "size": "1,89 MB",
+          "url": "/infoseiten/Lm/eue01/doc/EUE01_0520K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "EUE01_0520K06.epub",
+          "content_type": "epub",
+          "size": "13,26 MB",
+          "url": "/infoseiten/Lm/eue01/doc/EUE01_0520K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "EUE01_0520K06.html",
+          "content_type": "html",
+          "size": "22,85 MB",
+          "url": "/infoseiten/Lm/eue01/doc/EUE01_0520K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1004,
+      "code": "EUE02",
+      "name": "Gleichstromkreise",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EUE02_0625K07.pdf",
+          "content_type": "pdf",
+          "size": "9,13 MB",
+          "url": "/infoseiten/Lm/eue02/doc/EUE02_0625K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "EUE02_0625K07.html",
+          "content_type": "html",
+          "size": "34,61 MB",
+          "url": "/infoseiten/Lm/eue02/doc/EUE02_0625K07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "EUE02_0625K07.epub",
+          "content_type": "epub",
+          "size": "16,63 MB",
+          "url": "/infoseiten/Lm/eue02/doc/EUE02_0625K07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 781,
+      "code": "MAI14a",
+      "name": "Numerische Methoden Teil 1",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI14A_0820K16.html",
+          "content_type": "html",
+          "size": "13,57 MB",
+          "url": "/infoseiten/Lm/mai14a/doc/MAI14A_0820K16.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI14A_0820K16.pdf",
+          "content_type": "pdf",
+          "size": "1,61 MB",
+          "url": "/infoseiten/Lm/mai14a/doc/MAI14A_0820K16.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI14A_0820K16.epub",
+          "content_type": "epub",
+          "size": "7,71 MB",
+          "url": "/infoseiten/Lm/mai14a/doc/MAI14A_0820K16.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2868,
+      "code": "TEM10",
+      "name": "Technische Mechanik - Statik",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TEM10_0715K03.pdf",
+          "content_type": "pdf",
+          "size": "1,81 MB",
+          "url": "/infoseiten/Lm/tem10/doc/TEM10_0715K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2869,
+      "code": "TEM11",
+      "name": "Technische Mechanik - Festigkeitslehre",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TEM11_0915K02.pdf",
+          "content_type": "pdf",
+          "size": "1,67 MB",
+          "url": "/infoseiten/Lm/tem11/doc/TEM11_0915K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 782,
+      "code": "MAI14b",
+      "name": "Numerische Methoden Teil 2",
+      "type": "learning_module",
+      "study_month": 14,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI14B_0823U16.epub",
+          "content_type": "epub",
+          "size": "9,95 MB",
+          "url": "/infoseiten/Lm/mai14b/doc/MAI14B_0823U16.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MAI14B_0823U16.html",
+          "content_type": "html",
+          "size": "14,78 MB",
+          "url": "/infoseiten/Lm/mai14b/doc/MAI14B_0823U16.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI14B_0823U16.pdf",
+          "content_type": "pdf",
+          "size": "3,06 MB",
+          "url": "/infoseiten/Lm/mai14b/doc/MAI14B_0823U16.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1005,
+      "code": "EUE03",
+      "name": "Wechselstromkreise",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EUE03_0821K06.epub",
+          "content_type": "epub",
+          "size": "17,05 MB",
+          "url": "/infoseiten/Lm/eue03/doc/EUE03_0821K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "EUE03_0821K06.html",
+          "content_type": "html",
+          "size": "32,90 MB",
+          "url": "/infoseiten/Lm/eue03/doc/EUE03_0821K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "EUE03_0821K06.pdf",
+          "content_type": "pdf",
+          "size": "3,74 MB",
+          "url": "/infoseiten/Lm/eue03/doc/EUE03_0821K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2919,
+      "code": "B-MAI01XX",
+      "name": "Mathematik III",
+      "type": "exam",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": 4,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2920,
+      "code": "B-MAI04XX",
+      "name": "Laboreingangsprüfung Mathematik",
+      "type": "exam",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2921,
+      "code": "B-MAI05XX",
+      "name": "Laborabschlussprüfung Mathematik",
+      "type": "exam",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 706,
+      "code": "GEM07a",
+      "name": "Bauelemente und Grundschaltungen",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "GEM07A_0620K09.pdf",
+          "content_type": "pdf",
+          "size": "4,06 MB",
+          "url": "/infoseiten/Lm/gem07a/doc/GEM07A_0620K09.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "GEM07A_0620K09.epub",
+          "content_type": "epub",
+          "size": "12,73 MB",
+          "url": "/infoseiten/Lm/gem07a/doc/GEM07A_0620K09.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "GEM07A_0620K09.html",
+          "content_type": "html",
+          "size": "20,53 MB",
+          "url": "/infoseiten/Lm/gem07a/doc/GEM07A_0620K09.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2922,
+      "code": "MAI-L",
+      "name": "Einführung Matlab und Laborbeschreibung",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI-L_A02.html",
+          "content_type": "html",
+          "size": "13,51 MB",
+          "url": "/infoseiten/Lm/mai-l/doc/MAI-L_A02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI-L_A02.pdf",
+          "content_type": "pdf",
+          "size": "5,39 MB",
+          "url": "/infoseiten/Lm/mai-l/doc/MAI-L_A02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI-L_A02.epub",
+          "content_type": "epub",
+          "size": "7,99 MB",
+          "url": "/infoseiten/Lm/mai-l/doc/MAI-L_A02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 102,
+      "code": "MAI10",
+      "name": "Stochastik I",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI10_0923K24.pdf",
+          "content_type": "pdf",
+          "size": "1,47 MB",
+          "url": "/infoseiten/Lm/mai10/doc/MAI10_0923K24.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 682,
+      "code": "MATLAB",
+      "name": "Matlab Simulink Student Group",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2870,
+      "code": "TEM12",
+      "name": "Technische Mechanik - Kinematik",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TEM12_0522A05.pdf",
+          "content_type": "pdf",
+          "size": "1,41 MB",
+          "url": "/infoseiten/Lm/tem12/doc/TEM12_0522A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2871,
+      "code": "TEM13",
+      "name": "Technische Mechanik - Kinetik",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TEM13_0915K02.pdf",
+          "content_type": "pdf",
+          "size": "1,29 MB",
+          "url": "/infoseiten/Lm/tem13/doc/TEM13_0915K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2872,
+      "code": "TEM14",
+      "name": "Technische Mechanik - Schwingungslehre",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TEM14_K04.pdf",
+          "content_type": "pdf",
+          "size": "2,20 MB",
+          "url": "/infoseiten/Lm/tem14/doc/TEM14_K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1011,
+      "code": "EUE05",
+      "name": "Digitale Schaltungen",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EUE05_0319K02.pdf",
+          "content_type": "pdf",
+          "size": "3,17 MB",
+          "url": "/infoseiten/Lm/eue05/doc/EUE05_0319K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "EUE05_0319K02.epub",
+          "content_type": "epub",
+          "size": "8,26 MB",
+          "url": "/infoseiten/Lm/eue05/doc/EUE05_0319K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "EUE05_0319K02.html",
+          "content_type": "html",
+          "size": "12,18 MB",
+          "url": "/infoseiten/Lm/eue05/doc/EUE05_0319K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1006,
+      "code": "B-EUE01XX",
+      "name": "Grundlagen der Elektrotechnik",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": 5,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "5.0",
+        "mark_label": "5.0",
+        "esa_send_date": "17.02.2025",
+        "esa_grade_date": "23.02.2025",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 05.01.2024<br /><b>Zugewiesen am:</b> 22.03.2018<br /><b>Einsendung bis:</b> 04.07.2024<br /><b>Lösungseingang:</b> 17.02.2025<br /><b>Benotungsdatum:</b> 23.02.2025",
+        "exam_css_class": "examFailed",
+        "show_tick_mark": false
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2864,
+      "code": "EUEAPS",
+      "name": "Einführung in die Elektrotechnik und Elektronik",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 550,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, handgeschriebene Notizen (max. 2 Seiten DIN A4, d.h. 1 Blatt, beidseitig beschriftet), Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "AD-Wandler und DA-Wandler, Bauelemente der Digitaltechnik, Passive Bauelemente, Dimensionierung von Transitorschaltungen, Grundbegriffe der digitalen Schaltungstechnik, Grundlagen der Halbleiterphysik und Halbleiterdiode, Halbleiterspeicher, Operationsverstärker"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2923,
+      "code": "MAILab",
+      "name": "Labor Mathematik",
+      "type": "seminar",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 564,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4842,
+      "code": "TMDPS",
+      "name": "Dynamik",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": 5,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Anwendungen von Schwerpunkt- und Drallsatz, Ebene Bewegungen starrer Körper, Lineare Schwingungen mit einem Freiheitsgrad"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4782,
+      "code": "TMSPS",
+      "name": "Statik",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 551,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Vergleichsspannungen, Lagerreaktionen und Schnittgrößen, Spannungen und Verformungen von Balken, Ebener Spannungszustand"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1191,
+      "code": "WKMPS",
+      "name": "Werkstofftechnik",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 565,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "gelieferte Studienhefte des Moduls, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Eisen-Kohlenstoff-Diagramm, Gitterstrukturen von Metallen, Glaszustand, Kunststoffe, Phasendiagramme von Metallen, Physikalische Werkstoffeigenschaften, Wärmebehandlung von Metallen"
+      },
+      "mark_and_points": {
+        "mark": "2.7",
+        "mark_label": "2.7",
+        "esa_send_date": "25.06.2024",
+        "esa_grade_date": "07.07.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 25.06.2024<br /><b>Benotungsdatum:</b> 07.07.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 17,
+      "code": "IFB03",
+      "name": "Investition und Finanzierung - Teil 1",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 562,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IFB03_1121A08.html",
+          "content_type": "html",
+          "size": "14,68 MB",
+          "url": "/infoseiten/Lm/ifb03/doc/IFB03_1121A08.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IFB03_1121A08.pdf",
+          "content_type": "pdf",
+          "size": "1,44 MB",
+          "url": "/infoseiten/Lm/ifb03/doc/IFB03_1121A08.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IFB03_1121A08.epub",
+          "content_type": "epub",
+          "size": "7,29 MB",
+          "url": "/infoseiten/Lm/ifb03/doc/IFB03_1121A08.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 330,
+      "code": "KON05",
+      "name": "Technisches Zeichnen",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON05_0319K02.pdf",
+          "content_type": "pdf",
+          "size": "7,54 MB",
+          "url": "/infoseiten/Lm/kon05/doc/KON05_0319K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2852,
+      "code": "MSS01",
+      "name": "Messgrößen und Fehlerrechnung",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 553,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MSS01_0421K07.pdf",
+          "content_type": "pdf",
+          "size": "2,53 MB",
+          "url": "/infoseiten/Lm/mss01/doc/MSS01_0421K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MSS01_0421K07.html",
+          "content_type": "html",
+          "size": "17,21 MB",
+          "url": "/infoseiten/Lm/mss01/doc/MSS01_0421K07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MSS01_0421K07.epub",
+          "content_type": "epub",
+          "size": "11,44 MB",
+          "url": "/infoseiten/Lm/mss01/doc/MSS01_0421K07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1177,
+      "code": "TTF01",
+      "name": "Thermodynamik I",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TTF01_0523K10.html",
+          "content_type": "html",
+          "size": "11,32 MB",
+          "url": "/infoseiten/Lm/ttf01/doc/TTF01_0523K10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TTF01_0523K10.epub",
+          "content_type": "epub",
+          "size": "6,45 MB",
+          "url": "/infoseiten/Lm/ttf01/doc/TTF01_0523K10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "TTF01_0523K10.pdf",
+          "content_type": "pdf",
+          "size": "2,37 MB",
+          "url": "/infoseiten/Lm/ttf01/doc/TTF01_0523K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1179,
+      "code": "TTF03",
+      "name": "Fluidmechanik I",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TTF03_0815K06.pdf",
+          "content_type": "pdf",
+          "size": "3,23 MB",
+          "url": "/infoseiten/Lm/ttf03/doc/TTF03_0815K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1143,
+      "code": "KON10",
+      "name": "Konstruktionsmethodik",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON10_0322K04.pdf",
+          "content_type": "pdf",
+          "size": "3,13 MB",
+          "url": "/infoseiten/Lm/kon10/doc/KON10_0322K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "KON10_0322K04.html",
+          "content_type": "html",
+          "size": "14,42 MB",
+          "url": "/infoseiten/Lm/kon10/doc/KON10_0322K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "KON10_0322K04.epub",
+          "content_type": "epub",
+          "size": "11,59 MB",
+          "url": "/infoseiten/Lm/kon10/doc/KON10_0322K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2853,
+      "code": "MSS02",
+      "name": "Messverfahren und Messgeräte",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 553,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MSS02_0823U10.html",
+          "content_type": "html",
+          "size": "26,24 MB",
+          "url": "/infoseiten/Lm/mss02/doc/MSS02_0823U10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MSS02_0823U10.pdf",
+          "content_type": "pdf",
+          "size": "9,58 MB",
+          "url": "/infoseiten/Lm/mss02/doc/MSS02_0823U10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MSS02_0823U10.epub",
+          "content_type": "epub",
+          "size": "15,56 MB",
+          "url": "/infoseiten/Lm/mss02/doc/MSS02_0823U10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4942,
+      "code": "AIN01DZ",
+      "name": "Einführung CAD",
+      "type": "learning_module",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "AIN01DZ_0518N01.html",
+          "content_type": "html",
+          "size": "1,18 MB",
+          "url": "/infoseiten/Lm/ain01dz/doc/AIN01DZ_0518N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "AIN01DZ_0518N01.pdf",
+          "content_type": "pdf",
+          "size": "864,67 KB",
+          "url": "/infoseiten/Lm/ain01dz/doc/AIN01DZ_0518N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "AIN01DZ_0518N01.epub",
+          "content_type": "epub",
+          "size": "906,77 KB",
+          "url": "/infoseiten/Lm/ain01dz/doc/AIN01DZ_0518N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4941,
+      "code": "AIN02DZ",
+      "name": "Inventor 2018 - Leitfaden und Grundlagen",
+      "type": "learning_module",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "AIN02DZ_0620K06.html",
+          "content_type": "html",
+          "size": "13,82 MB",
+          "url": "/infoseiten/Lm/ain02dz/doc/AIN02DZ_0620K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "AIN02DZ_0620K06.pdf",
+          "content_type": "pdf",
+          "size": "2,74 MB",
+          "url": "/infoseiten/Lm/ain02dz/doc/AIN02DZ_0620K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "AIN02DZ_0620K06.epub",
+          "content_type": "epub",
+          "size": "148,18 MB",
+          "url": "/infoseiten/Lm/ain02dz/doc/AIN02DZ_0620K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4940,
+      "code": "AIN03DZ",
+      "name": "Inventor 2018 - Leitfaden und Aufbau",
+      "type": "learning_module",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "AIN03DZ_0120K03.epub",
+          "content_type": "epub",
+          "size": "152,00 MB",
+          "url": "/infoseiten/Lm/ain03dz/doc/AIN03DZ_0120K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "AIN03DZ_0120K03.html",
+          "content_type": "html",
+          "size": "11,24 MB",
+          "url": "/infoseiten/Lm/ain03dz/doc/AIN03DZ_0120K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "AIN03DZ_0120K03.pdf",
+          "content_type": "pdf",
+          "size": "2,57 MB",
+          "url": "/infoseiten/Lm/ain03dz/doc/AIN03DZ_0120K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4947,
+      "code": "InventDVD2",
+      "name": "AutoCAD Inventor DVD",
+      "type": "learning_module",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2854,
+      "code": "B-TTF02XX",
+      "name": "Laboreingangsprüfung Technische Thermodynamik und Fluidmechanik",
+      "type": "exam",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2855,
+      "code": "B-TTF03XX",
+      "name": "Laborabschlussprüfung Technische Thermodynamik und Fluidmechanik",
+      "type": "exam",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1618,
+      "code": "FPP03",
+      "name": "Informationen aus rechnergestützten Systemen",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "FPP03_0611N01.pdf",
+          "content_type": "pdf",
+          "size": "1,38 MB",
+          "url": "/infoseiten/Lm/fpp03/doc/FPP03_0611N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 21,
+      "code": "IFB04",
+      "name": "Investition und Finanzierung - Teil 2",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 562,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IFB04_1015A09.pdf",
+          "content_type": "pdf",
+          "size": "1,48 MB",
+          "url": "/infoseiten/Lm/ifb04/doc/IFB04_1015A09.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IFB04_1015A09.html",
+          "content_type": "html",
+          "size": "6,02 MB",
+          "url": "/infoseiten/Lm/ifb04/doc/IFB04_1015A09.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IFB04_1015A09.epub",
+          "content_type": "epub",
+          "size": "3,55 MB",
+          "url": "/infoseiten/Lm/ifb04/doc/IFB04_1015A09.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 3445,
+      "code": "MSS03",
+      "name": "Digitale Messverfahren",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 553,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MSS03_0221K05.html",
+          "content_type": "html",
+          "size": "18,49 MB",
+          "url": "/infoseiten/Lm/mss03/doc/MSS03_0221K05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MSS03_0221K05.pdf",
+          "content_type": "pdf",
+          "size": "3,68 MB",
+          "url": "/infoseiten/Lm/mss03/doc/MSS03_0221K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MSS03_0221K05.epub",
+          "content_type": "epub",
+          "size": "12,27 MB",
+          "url": "/infoseiten/Lm/mss03/doc/MSS03_0221K05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2856,
+      "code": "TTF-L",
+      "name": "Laborvorbereitung Thermodynamik und Fluidmechanik",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TTF-L_0721K05.pdf",
+          "content_type": "pdf",
+          "size": "2,19 MB",
+          "url": "/infoseiten/Lm/ttf-l/doc/TTF-L_0721K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1178,
+      "code": "TTF02",
+      "name": "Thermodynamik II",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TTF02_0825A06.html",
+          "content_type": "html",
+          "size": "19,47 MB",
+          "url": "/infoseiten/Lm/ttf02/doc/TTF02_0825A06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TTF02_0825A06.epub",
+          "content_type": "epub",
+          "size": "12,65 MB",
+          "url": "/infoseiten/Lm/ttf02/doc/TTF02_0825A06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "TTF02_0825A06.pdf",
+          "content_type": "pdf",
+          "size": "5,16 MB",
+          "url": "/infoseiten/Lm/ttf02/doc/TTF02_0825A06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1180,
+      "code": "TTF04",
+      "name": "Fluidmechanik II",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TTF04_0815K05.pdf",
+          "content_type": "pdf",
+          "size": "5,27 MB",
+          "url": "/infoseiten/Lm/ttf04/doc/TTF04_0815K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1758,
+      "code": "MLM01a",
+      "name": "Maschinenelemente I",
+      "type": "learning_module",
+      "study_month": 23,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MLM01A_0315K05.pdf",
+          "content_type": "pdf",
+          "size": "5,31 MB",
+          "url": "/infoseiten/Lm/mlm01a/doc/MLM01A_0315K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 848,
+      "code": "SEN01A",
+      "name": "Grundlagen und Messprinzipien der Sensorik",
+      "type": "learning_module",
+      "study_month": 23,
+      "semester": 4,
+      "module_id": 553,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "SEN01A_0512K06.epub",
+          "content_type": "epub",
+          "size": "12,32 MB",
+          "url": "/infoseiten/Lm/sen01a/doc/SEN01A_0512K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEN01A_0512K06.pdf",
+          "content_type": "pdf",
+          "size": "8,20 MB",
+          "url": "/infoseiten/Lm/sen01a/doc/SEN01A_0512K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SEN01A_0512K06.html",
+          "content_type": "html",
+          "size": "18,55 MB",
+          "url": "/infoseiten/Lm/sen01a/doc/SEN01A_0512K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2874,
+      "code": "B-FKI01XX",
+      "name": "Führung und Kommunikation",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 563,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "3.3",
+        "mark_label": "3.3",
+        "esa_send_date": "13.09.2023",
+        "esa_grade_date": "15.09.2023",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 03.06.2017<br /><b>Zugewiesen am:</b> 03.06.2017<br /><b>Einsendung bis:</b> 30.11.2017<br /><b>Lösungseingang:</b> 13.09.2023<br /><b>Benotungsdatum:</b> 15.09.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2877,
+      "code": "B-IUF02XX",
+      "name": "Investition und Finanzierung",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 562,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2881,
+      "code": "B-TEZ02XX",
+      "name": "Englisch",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 557,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "3.7",
+        "mark_label": "3.7",
+        "esa_send_date": "23.08.2024",
+        "esa_grade_date": "02.09.2024",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 03.06.2017<br /><b>Zugewiesen am:</b> 03.06.2017<br /><b>Einsendung bis:</b> 30.11.2017<br /><b>Lösungseingang:</b> 23.08.2024<br /><b>Benotungsdatum:</b> 02.09.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1181,
+      "code": "B-TTF01XX",
+      "name": "Technische Thermodynamik und Fluidmechanik",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2217,
+      "code": "BPP",
+      "name": "Berufspraktische Phase",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 589,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2850,
+      "code": "KONEPS",
+      "name": "Konstruktionslehre und Maschinenelemente I",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 552,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Festigkeit der Maschinenelemente, Schraubenverbindungen, Zeichentechnische Grundlagen, Darstellung und Bemaßung, Angaben in Zeichnungen, Konstruktionsmethodik"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2851,
+      "code": "MSSPS",
+      "name": "Messtechnik",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 553,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Formelsammlung Klett \"Alle Formeln kompakt\", gelieferte Studienhefte des Moduls, handgeschriebene Notizen (max. 2 Seiten DIN A4, d.h. 1 Blatt, beidseitig beschriftet), Wissenschaftlicher Taschenrechner  auch programmierbar, bspw. Casio fx 991, fx 3650 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen.",
+        "core_topics": "Digitale Messverfahren, Leistungsmessung, Messbrücken, Messgrößen und Fehlerrechnung, Messverfahren und Messsysteme, Operationsverstärker und -schaltungen"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2857,
+      "code": "TTFLab",
+      "name": "Labor Technische Thermodynamik und Fluidmechanik",
+      "type": "seminar",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1182,
+      "code": "TTFPS",
+      "name": "Technische Thermodynamik und Fluidmechanik",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 549,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "gelieferte Studienhefte des Moduls, handgeschriebene Notizen (max. 2 Seiten DIN A4, d.h. 1 Blatt, beidseitig beschriftet), Formelsammlung Klett \"Alle Formeln kompakt\", Wissenschaftlicher Taschenrechner  auch programmierbar, bspw. Casio fx 991, fx 3650 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen.",
+        "core_topics": "Entropie, Feuchte Luft, Ideales Gas, Kreisprozesse, Technische Arbeit, Thermischer Wirkungsgrad, Wärmeleitung"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2925,
+      "code": "ATM05",
+      "name": "Grundlagen der Steuerungstechnik I",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ATM05_0222K02.pdf",
+          "content_type": "pdf",
+          "size": "2,46 MB",
+          "url": "/infoseiten/Lm/atm05/doc/ATM05_0222K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ATM05_0222K02.html",
+          "content_type": "html",
+          "size": "13,76 MB",
+          "url": "/infoseiten/Lm/atm05/doc/ATM05_0222K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ATM05_0222K02.epub",
+          "content_type": "epub",
+          "size": "9,38 MB",
+          "url": "/infoseiten/Lm/atm05/doc/ATM05_0222K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 738,
+      "code": "BSI01a",
+      "name": "UNIX Eine Einführung",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI01A_0707N01.zip",
+          "content_type": "zip",
+          "size": "103,10 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI01A_0707N01.pdf",
+          "content_type": "pdf",
+          "size": "5,24 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BSI01A_0707N01.mp3",
+          "content_type": "mp3",
+          "size": "78,47 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI01A_0707N01.html",
+          "content_type": "html",
+          "size": "11,32 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2928,
+      "code": "KON01a",
+      "name": "Antriebselemente I - Kupplungen, Zugmittelgetriebe",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON01A__1116K04.pdf",
+          "content_type": "pdf",
+          "size": "6,02 MB",
+          "url": "/infoseiten/Lm/kon01a/doc/KON01A__1116K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 740,
+      "code": "LINUX_DVD",
+      "name": "UBUNTU Spezial",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1165,
+      "code": "RES01",
+      "name": "Übertragungsfunktion und Regelkreis (Grundbegriffe)",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "RES01_0321K05.pdf",
+          "content_type": "pdf",
+          "size": "1,02 MB",
+          "url": "/infoseiten/Lm/res01/doc/RES01_0321K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "RES01_0321K05.html",
+          "content_type": "html",
+          "size": "20,92 MB",
+          "url": "/infoseiten/Lm/res01/doc/RES01_0321K05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "RES01_0321K05.epub",
+          "content_type": "epub",
+          "size": "11,96 MB",
+          "url": "/infoseiten/Lm/res01/doc/RES01_0321K05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1168,
+      "code": "RES02",
+      "name": "Frequenzgang, Stabilität, Regelgüte",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "RES02_1015K02.pdf",
+          "content_type": "pdf",
+          "size": "1,28 MB",
+          "url": "/infoseiten/Lm/res02/doc/RES02_1015K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2926,
+      "code": "ATM06",
+      "name": "Grundlagen der Steuerungstechnik II",
+      "type": "learning_module",
+      "study_month": 26,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ATM06_1221K03.html",
+          "content_type": "html",
+          "size": "11,70 MB",
+          "url": "/infoseiten/Lm/atm06/doc/ATM06_1221K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ATM06_1221K03.pdf",
+          "content_type": "pdf",
+          "size": "2,61 MB",
+          "url": "/infoseiten/Lm/atm06/doc/ATM06_1221K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ATM06_1221K03.epub",
+          "content_type": "epub",
+          "size": "8,43 MB",
+          "url": "/infoseiten/Lm/atm06/doc/ATM06_1221K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 741,
+      "code": "BSI02a",
+      "name": "Nutzung des Betriebssystems UNIX",
+      "type": "learning_module",
+      "study_month": 26,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI02A_1109A02.html",
+          "content_type": "html",
+          "size": "10,80 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BSI02A_1109A02.zip",
+          "content_type": "zip",
+          "size": "155,74 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI02A_1109A02.mp3",
+          "content_type": "mp3",
+          "size": "126,57 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI02A_1109A02.pdf",
+          "content_type": "pdf",
+          "size": "11,74 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2929,
+      "code": "KON02a",
+      "name": "Antriebselemente II",
+      "type": "learning_module",
+      "study_month": 26,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON02A_0416K03.pdf",
+          "content_type": "pdf",
+          "size": "16,89 MB",
+          "url": "/infoseiten/Lm/kon02a/doc/KON02A_0416K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 91,
+      "code": "BSI04",
+      "name": "Betriebssysteme",
+      "type": "learning_module",
+      "study_month": 27,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI04_1117K10.pdf",
+          "content_type": "pdf",
+          "size": "3,66 MB",
+          "url": "/infoseiten/Lm/bsi04/doc/BSI04_1117K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2031,
+      "code": "MLM02a",
+      "name": "Maschinenelemente II",
+      "type": "learning_module",
+      "study_month": 27,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MLM02A_0912K03.pdf",
+          "content_type": "pdf",
+          "size": "9,96 MB",
+          "url": "/infoseiten/Lm/mlm02a/doc/MLM02A_0912K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 346,
+      "code": "AKT-L",
+      "name": "Laborbrief Regelung mechanischer Systeme",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "AKT-L_1124A07.zip",
+          "content_type": "zip",
+          "size": "59,33 MB",
+          "url": "/infoseiten/Lm/akt-l/doc/AKT-L_1124A07.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "AKT-L_1124A07.epub",
+          "content_type": "epub",
+          "size": "11,85 MB",
+          "url": "/infoseiten/Lm/akt-l/doc/AKT-L_1124A07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "AKT-L_1124A07.html",
+          "content_type": "html",
+          "size": "15,96 MB",
+          "url": "/infoseiten/Lm/akt-l/doc/AKT-L_1124A07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "AKT-L_1124A07.mp3",
+          "content_type": "mp3",
+          "size": "38,89 MB",
+          "url": "/infoseiten/Lm/akt-l/doc/AKT-L_1124A07.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "AKT-L_1124A07.pdf",
+          "content_type": "pdf",
+          "size": "5,03 MB",
+          "url": "/infoseiten/Lm/akt-l/doc/AKT-L_1124A07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 349,
+      "code": "ATM-L2",
+      "name": "Laborbeschreibung Steuerungstechnik",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ATM-L2_0709K03.pdf",
+          "content_type": "pdf",
+          "size": "3,68 MB",
+          "url": "/infoseiten/Lm/atm-l2/doc/ATM-L2_0709K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1418,
+      "code": "ATML2Lab",
+      "name": "Labor Steuerungstechnik",
+      "type": "seminar",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3472,
+      "code": "B-AKTL01XX",
+      "name": "Laboreingangsprüfung Regelung mechanischer Systeme",
+      "type": "exam",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1420,
+      "code": "B-ATM02XX",
+      "name": "Laboreingangsprüfung Steuerungstechnik",
+      "type": "exam",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 69,
+      "code": "BSI03",
+      "name": "Rechnerarchitekturen",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI03_0718K07.pdf",
+          "content_type": "pdf",
+          "size": "1,29 MB",
+          "url": "/infoseiten/Lm/bsi03/doc/BSI03_0718K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 104,
+      "code": "BSI05",
+      "name": "Betriebssysteme II",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI05_0424A03.zip",
+          "content_type": "zip",
+          "size": "91,85 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI05_A03.epub",
+          "content_type": "epub",
+          "size": "5,25 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_A03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "BSI05_0424A03.mp3",
+          "content_type": "mp3",
+          "size": "76,21 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI05_A03.html",
+          "content_type": "html",
+          "size": "9,30 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_A03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BSI05_0424A03.pdf",
+          "content_type": "pdf",
+          "size": "2,16 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2032,
+      "code": "MLM03a",
+      "name": "Maschinenelemente III",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MLM03A_0516K04.pdf",
+          "content_type": "pdf",
+          "size": "3,96 MB",
+          "url": "/infoseiten/Lm/mlm03a/doc/MLM03A_0516K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2403,
+      "code": "MLMBU",
+      "name": "Wälzlagerkatalog",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1170,
+      "code": "RES03",
+      "name": "Optimierung einschleifiger Regelkreise",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "RES03_0815K04.pdf",
+          "content_type": "pdf",
+          "size": "1,01 MB",
+          "url": "/infoseiten/Lm/res03/doc/RES03_0815K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 333,
+      "code": "ATM04",
+      "name": "Steuerungstechnik",
+      "type": "learning_module",
+      "study_month": 29,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ATM04_0222A04.pdf",
+          "content_type": "pdf",
+          "size": "14,78 MB",
+          "url": "/infoseiten/Lm/atm04/doc/ATM04_0222A04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ATM04_0222A04.html",
+          "content_type": "html",
+          "size": "13,06 MB",
+          "url": "/infoseiten/Lm/atm04/doc/ATM04_0222A04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ATM04_0222A04.epub",
+          "content_type": "epub",
+          "size": "12,40 MB",
+          "url": "/infoseiten/Lm/atm04/doc/ATM04_0222A04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 681,
+      "code": "BSI06",
+      "name": "Rechnerarchitektur II",
+      "type": "learning_module",
+      "study_month": 29,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BSI06_0806N01.pdf",
+          "content_type": "pdf",
+          "size": "1,07 MB",
+          "url": "/infoseiten/Lm/bsi06/doc/BSI06_0806N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1759,
+      "code": "MLM04a",
+      "name": "Maschinenelemente IV",
+      "type": "learning_module",
+      "study_month": 29,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MLM04A_0516K06.pdf",
+          "content_type": "pdf",
+          "size": "1,45 MB",
+          "url": "/infoseiten/Lm/mlm04a/doc/MLM04A_0516K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1436,
+      "code": "AKTLab",
+      "name": "Labor Regelung mechanischer Systeme",
+      "type": "seminar",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2849,
+      "code": "ARETLPS",
+      "name": "Analoge Regelungstechnik",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": 4,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Darstellung der Signalübertragung mit Signalflussplänen, Rechenmethoden der Laplace-Transformation, Regelgüte, Stabilität von Regelkreisen, Übertragungsfunktion"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 651,
+      "code": "ATMPS",
+      "name": "Steuerungstechnik",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": 4,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Formelsammlung Klett \"Alle Formeln kompakt\", handgeschriebene Notizen (max. 2 Seiten DIN A4, d.h. 1 Blatt, beidseitig beschriftet), alles gedruckte oder handgeschriebene Material, gelieferte Studienhefte des Moduls, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Mensch-Maschine-Interface, Methoden der Steuerungstechnik, Projektierung einer Steuerung, Steuerungssysteme, Steuerungstechnische Komponenten, Steuerungsprogrammierung"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3473,
+      "code": "B-AKTL02XX",
+      "name": "Laborabschlussprüfung Regelung mechanischer Systeme",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 554,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1419,
+      "code": "B-ATM03XX",
+      "name": "Laborabschlussprüfung Steuerungstechnik",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 572,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2218,
+      "code": "BSRAPS",
+      "name": "Betriebssysteme und Rechnerarchitektur",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 199,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Architekturmodell Betriebssysteme, Childprozesse, Grundlagen Betriebssysteme (Mehrbenutzer, GUI), Maschinenbefehle, Prozesse, Threads, Virtueller und verteilter Speicher, Von-Neumann und Harvard-Architektur"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2930,
+      "code": "KONFPS",
+      "name": "Konstruktionslehre und Maschinenelemente II",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 581,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Achsen und Wellen, Elastische Federn, Gleit- und Wälzlagerungen, Kupplungen (Wellenkupplungen), Riemen- und Kettengetriebe, Schweiß- und Klebverbindungen, Welle-Nabe-Verbindungen, Zahnräder und Zahnradgetriebe"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2848,
+      "code": "B-KON05XX",
+      "name": "CAD Techniken und Finite-Elemente-Simulation",
+      "type": "exam",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1144,
+      "code": "KON11",
+      "name": "Das systematische Gestalten der Maschinenteile",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON11_0510N01.pdf",
+          "content_type": "pdf",
+          "size": "7,52 MB",
+          "url": "/infoseiten/Lm/kon11/doc/KON11_0510N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 296,
+      "code": "PKM01",
+      "name": "Prozesskommunikation Teil 1",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "PKM01_0809K02.pdf",
+          "content_type": "pdf",
+          "size": "1,75 MB",
+          "url": "/infoseiten/Lm/pkm01/doc/PKM01_0809K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2178,
+      "code": "SEI12",
+      "name": "Unified Modeling Language",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 632,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "SEI12_0823K04.html",
+          "content_type": "html",
+          "size": "19,72 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_0823K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI12_0823K04.epub",
+          "content_type": "epub",
+          "size": "15,84 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_0823K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEI12_K04.pdf",
+          "content_type": "pdf",
+          "size": "8,93 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2539,
+      "code": "SEI13",
+      "name": "Entwurfsmuster",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 632,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "SEI13_1124K11.html",
+          "content_type": "html",
+          "size": "10,81 MB",
+          "url": "/infoseiten/Lm/sei13/doc/SEI13_1124K11.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI13_1124K11.pdf",
+          "content_type": "pdf",
+          "size": "2,83 MB",
+          "url": "/infoseiten/Lm/sei13/doc/SEI13_1124K11.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SEI13_1124K11.epub",
+          "content_type": "epub",
+          "size": "6,34 MB",
+          "url": "/infoseiten/Lm/sei13/doc/SEI13_1124K11.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1349,
+      "code": "ECOM01-H",
+      "name": "Technikgrundlagen für E-Commerce-Manager",
+      "type": "learning_module",
+      "study_month": 32,
+      "semester": 6,
+      "module_id": 166,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ECOM01-H_0114K04.pdf",
+          "content_type": "pdf",
+          "size": "1,91 MB",
+          "url": "/infoseiten/Lm/ecom01-h/doc/ECOM01-H_0114K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 3638,
+      "code": "IBS02AZ",
+      "name": "Einführung in Electronic Commerce 1",
+      "type": "learning_module",
+      "study_month": 32,
+      "semester": 6,
+      "module_id": 166,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IBS02AZ_0218A17.epub",
+          "content_type": "epub",
+          "size": "2,45 MB",
+          "url": "/infoseiten/Lm/ibs02az/doc/IBS02AZ_0218A17.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IBS02AZ_0218A17.pdf",
+          "content_type": "pdf",
+          "size": "966,03 KB",
+          "url": "/infoseiten/Lm/ibs02az/doc/IBS02AZ_0218A17.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IBS02AZ_0218A17.mp3",
+          "content_type": "mp3",
+          "size": "60,95 MB",
+          "url": "/infoseiten/Lm/ibs02az/doc/IBS02AZ_0218A17.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "IBS02AZ_0218A17.zip",
+          "content_type": "zip",
+          "size": "75,25 MB",
+          "url": "/infoseiten/Lm/ibs02az/doc/IBS02AZ_0218A17.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "IBS02AZ_0218A17.html",
+          "content_type": "html",
+          "size": "4,59 MB",
+          "url": "/infoseiten/Lm/ibs02az/doc/IBS02AZ_0218A17.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 297,
+      "code": "PKM02",
+      "name": "Prozesskommunikation Teil 2",
+      "type": "learning_module",
+      "study_month": 32,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "PKM02_1009K02.pdf",
+          "content_type": "pdf",
+          "size": "3,34 MB",
+          "url": "/infoseiten/Lm/pkm02/doc/PKM02_1009K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 3639,
+      "code": "IBS02BZ",
+      "name": "Einführung in Electronic Commerce II",
+      "type": "learning_module",
+      "study_month": 33,
+      "semester": 6,
+      "module_id": 166,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IBS02BZ_1218K13.pdf",
+          "content_type": "pdf",
+          "size": "1,45 MB",
+          "url": "/infoseiten/Lm/ibs02bz/doc/IBS02BZ_1218K13.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IBS02BZ_1218K13.epub",
+          "content_type": "epub",
+          "size": "2,24 MB",
+          "url": "/infoseiten/Lm/ibs02bz/doc/IBS02BZ_1218K13.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IBS02BZ_1218K13.html",
+          "content_type": "html",
+          "size": "4,55 MB",
+          "url": "/infoseiten/Lm/ibs02bz/doc/IBS02BZ_1218K13.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IBS02BZ_1218K13.zip",
+          "content_type": "zip",
+          "size": "57,08 MB",
+          "url": "/infoseiten/Lm/ibs02bz/doc/IBS02BZ_1218K13.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "IBS02BZ_1218K13.mp3",
+          "content_type": "mp3",
+          "size": "48,52 MB",
+          "url": "/infoseiten/Lm/ibs02bz/doc/IBS02BZ_1218K13.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 265,
+      "code": "MRT02",
+      "name": "Programmierung von Mikroprozessoren und Mikrocontrollern",
+      "type": "learning_module",
+      "study_month": 33,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MRT02_0823K05.pdf",
+          "content_type": "pdf",
+          "size": "5,80 MB",
+          "url": "/infoseiten/Lm/mrt02/doc/MRT02_0823K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1023,
+      "code": "B-CAD01XX",
+      "name": "Laboreingangsprüfung CAD",
+      "type": "exam",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "ok",
+        "mark_label": "bestanden",
+        "esa_send_date": "29.01.2024",
+        "esa_grade_date": "30.01.2024",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 03.06.2017<br /><b>Zugewiesen am:</b> 03.06.2017<br /><b>Einsendung bis:</b> 30.11.2017<br /><b>Lösungseingang:</b> 29.01.2024<br /><b>Benotungsdatum:</b> 30.01.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1025,
+      "code": "B-CAD02XX",
+      "name": "Laborabschlussprüfung CAD",
+      "type": "exam",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "2.0",
+        "mark_label": "2.0",
+        "esa_send_date": "15.08.2024",
+        "esa_grade_date": "29.08.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 15.08.2024<br /><b>Benotungsdatum:</b> 29.08.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1079,
+      "code": "CAD-L",
+      "name": "Laborbeschreibung CAD",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "CAD-L_0725A05.pdf",
+          "content_type": "pdf",
+          "size": "2,77 MB",
+          "url": "/infoseiten/Lm/cad-l/doc/CAD-L_0725A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "CAD-L_0725A05.epub",
+          "content_type": "epub",
+          "size": "187,98 MB",
+          "url": "/infoseiten/Lm/cad-l/doc/CAD-L_0725A05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "CAD-L_0725A05.html",
+          "content_type": "html",
+          "size": "13,96 MB",
+          "url": "/infoseiten/Lm/cad-l/doc/CAD-L_0725A05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 292,
+      "code": "EBS01",
+      "name": "Embedded Systems - Teil 1",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EBS01_0609K03.pdf",
+          "content_type": "pdf",
+          "size": "1,09 MB",
+          "url": "/infoseiten/Lm/ebs01/doc/EBS01_0609K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2845,
+      "code": "KON16",
+      "name": "CAD – Anwendungen mit Inventor",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON16_0921A03.pdf",
+          "content_type": "pdf",
+          "size": "7,33 MB",
+          "url": "/infoseiten/Lm/kon16/doc/KON16_0921A03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "KON16_0921A03.html",
+          "content_type": "html",
+          "size": "27,16 MB",
+          "url": "/infoseiten/Lm/kon16/doc/KON16_0921A03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "KON16_0921A03.epub",
+          "content_type": "epub",
+          "size": "16,33 MB",
+          "url": "/infoseiten/Lm/kon16/doc/KON16_0921A03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2846,
+      "code": "KON17",
+      "name": "Anwendung der Finite-Elemente-Methode mit Inventor 2018",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "KON17_1219K03.epub",
+          "content_type": "epub",
+          "size": "7,49 MB",
+          "url": "/infoseiten/Lm/kon17/doc/KON17_1219K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "KON17_1219K03.pdf",
+          "content_type": "pdf",
+          "size": "3,00 MB",
+          "url": "/infoseiten/Lm/kon17/doc/KON17_1219K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "KON17_1219K03.mp3",
+          "content_type": "mp3",
+          "size": "45,31 MB",
+          "url": "/infoseiten/Lm/kon17/doc/KON17_1219K03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "KON17_1219K03.html",
+          "content_type": "html",
+          "size": "9,67 MB",
+          "url": "/infoseiten/Lm/kon17/doc/KON17_1219K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "KON17_1219K03.zip",
+          "content_type": "zip",
+          "size": "58,27 MB",
+          "url": "/infoseiten/Lm/kon17/doc/KON17_1219K03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2179,
+      "code": "SEI14",
+      "name": "Grundlagen der Softwarearchitektur",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 632,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "SEI14_0522K03.html",
+          "content_type": "html",
+          "size": "11,59 MB",
+          "url": "/infoseiten/Lm/sei14/doc/SEI14_0522K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI14_0522K03.zip",
+          "content_type": "zip",
+          "size": "59,91 MB",
+          "url": "/infoseiten/Lm/sei14/doc/SEI14_0522K03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "SEI14_0522K03.mp3",
+          "content_type": "mp3",
+          "size": "45,83 MB",
+          "url": "/infoseiten/Lm/sei14/doc/SEI14_0522K03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "SEI14_0522K03.epub",
+          "content_type": "epub",
+          "size": "10,43 MB",
+          "url": "/infoseiten/Lm/sei14/doc/SEI14_0522K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEI14_0522K03.pdf",
+          "content_type": "pdf",
+          "size": "8,52 MB",
+          "url": "/infoseiten/Lm/sei14/doc/SEI14_0522K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 293,
+      "code": "EBS02",
+      "name": "Embedded Systems - Teil 2",
+      "type": "learning_module",
+      "study_month": 35,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "EBS02_0609K04.pdf",
+          "content_type": "pdf",
+          "size": "1,10 MB",
+          "url": "/infoseiten/Lm/ebs02/doc/EBS02_0609K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 3640,
+      "code": "ITB12Z",
+      "name": "Electronic Procurement",
+      "type": "learning_module",
+      "study_month": 35,
+      "semester": 6,
+      "module_id": 166,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITB12Z__0215A02.mp3",
+          "content_type": "mp3",
+          "size": "52,29 MB",
+          "url": "/infoseiten/Lm/itb12z/doc/ITB12Z__0215A02.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "ITB12Z__0215A02.html",
+          "content_type": "html",
+          "size": "10,66 MB",
+          "url": "/infoseiten/Lm/itb12z/doc/ITB12Z__0215A02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITB12Z__0215A02.zip",
+          "content_type": "zip",
+          "size": "70,68 MB",
+          "url": "/infoseiten/Lm/itb12z/doc/ITB12Z__0215A02.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "ITB12Z__0215A02.pdf",
+          "content_type": "pdf",
+          "size": "2,27 MB",
+          "url": "/infoseiten/Lm/itb12z/doc/ITB12Z__0215A02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1036,
+      "code": "CADLab",
+      "name": "Labor CAD",
+      "type": "seminar",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 574,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2631,
+      "code": "EKEPS",
+      "name": "Entwurf und Kommunikation eingebetteter Systeme",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 508,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Klassifikation und Charakteristika, Logische Struktur und Hardware, Echtzeitsysteme, Qualitätssicherung und Softwarequalität, Anforderungen an die Kommunikation in technischen Systemen, Physikalische Grundlagen der Kommunikation, Grundlagen der digitalen Datenübertragung, Übertragungsprotokolle"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2687,
+      "code": "EMSEPS",
+      "name": "Electronic and Mobile Services",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 166,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Architektur von Internet-Shops, E-Commerce Wertschöpfungskette, E-Procurement Management, Integrierte Informationssysteme, Netzwerkarchitekturen, Rechtliche Aspekte, Sicherheit, Zahlungssysteme"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3448,
+      "code": "SEICPS",
+      "name": "Software Engineering",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 632,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Entwurfsmuster, Software Architektur (Begriffe), UML Activity, UML Klassendiagramm, UML Sequence/State, UML Use Case"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3359,
+      "code": "FUM08Z",
+      "name": "Führungsaspekte des Projektmanagements",
+      "type": "learning_module",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 545,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "FUM08Z_0619A05.html",
+          "content_type": "html",
+          "size": "10,71 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "FUM08Z_0619A05.epub",
+          "content_type": "epub",
+          "size": "6,95 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "FUM08Z_0619A05.pdf",
+          "content_type": "pdf",
+          "size": "3,93 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "FUM08Z_0619A05.zip",
+          "content_type": "zip",
+          "size": "106,83 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "FUM08Z_0619A05.mp3",
+          "content_type": "mp3",
+          "size": "90,14 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7,
+      "code": "IMI03",
+      "name": "Projektmanagement",
+      "type": "learning_module",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 545,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IMI03_0619A05.epub",
+          "content_type": "epub",
+          "size": "6,73 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IMI03_0619A05.html",
+          "content_type": "html",
+          "size": "9,96 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IMI03_0619A05.mp3",
+          "content_type": "mp3",
+          "size": "101,34 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "IMI03_0619A05.pdf",
+          "content_type": "pdf",
+          "size": "3,82 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IMI03_0619A05.zip",
+          "content_type": "zip",
+          "size": "119,10 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5012,
+      "code": "ITI21",
+      "name": "Grundlagen moderner Computernetze",
+      "type": "learning_module",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI21_1022K03.html",
+          "content_type": "html",
+          "size": "11,92 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI21_1022K03.mp3",
+          "content_type": "mp3",
+          "size": "63,88 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "ITI21_1022K03.zip",
+          "content_type": "zip",
+          "size": "84,82 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "ITI21_1022K03.epub",
+          "content_type": "epub",
+          "size": "8,17 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI21_1022K03.pdf",
+          "content_type": "pdf",
+          "size": "3,27 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4347,
+      "code": "PRJR",
+      "name": "Projektstart",
+      "type": "seminar",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 545,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2146,
+      "code": "Projektarbeit",
+      "name": "Projektarbeit",
+      "type": "exam",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 545,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5011,
+      "code": "ITI22",
+      "name": "Informationstheoretische und physikalisch-technische Grundlagen",
+      "type": "learning_module",
+      "study_month": 38,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI22_0825K07.html",
+          "content_type": "html",
+          "size": "14,58 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI22_0825K07.pdf",
+          "content_type": "pdf",
+          "size": "5,12 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI22_0825K07.epub",
+          "content_type": "epub",
+          "size": "8,46 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5010,
+      "code": "ITI23",
+      "name": "Bitübertragung und Netzzugang",
+      "type": "learning_module",
+      "study_month": 40,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI23_1022K04.pdf",
+          "content_type": "pdf",
+          "size": "3,63 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI23_1022K04.epub",
+          "content_type": "epub",
+          "size": "10,12 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI23_1022K04.html",
+          "content_type": "html",
+          "size": "14,48 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5009,
+      "code": "ITI24",
+      "name": "TCP/IP-Protokollfamilie",
+      "type": "learning_module",
+      "study_month": 40,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI24_K08.pdf",
+          "content_type": "pdf",
+          "size": "5,77 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_K08.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI24_0124K08.html",
+          "content_type": "html",
+          "size": "14,14 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_0124K08.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI24_0124K08.epub",
+          "content_type": "epub",
+          "size": "10,36 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_0124K08.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5008,
+      "code": "ITI25",
+      "name": "Internetworking und Netzdesign",
+      "type": "learning_module",
+      "study_month": 40,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI25_K06.epub",
+          "content_type": "epub",
+          "size": "11,66 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI25_K06.pdf",
+          "content_type": "pdf",
+          "size": "7,10 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI25_K06.html",
+          "content_type": "html",
+          "size": "13,96 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5007,
+      "code": "ITI26",
+      "name": "Anwendungsdienste und Netzmanagement",
+      "type": "learning_module",
+      "study_month": 40,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI26_K05.html",
+          "content_type": "html",
+          "size": "13,09 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI26_K05.pdf",
+          "content_type": "pdf",
+          "size": "3,49 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI26_K05.epub",
+          "content_type": "epub",
+          "size": "9,66 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4358,
+      "code": "ProPräsentation",
+      "name": "Projektpräsentation",
+      "type": "seminar",
+      "study_month": 40,
+      "semester": 7,
+      "module_id": 545,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3449,
+      "code": "NWTPS",
+      "name": "Netzwerktechnologie",
+      "type": "exam",
+      "study_month": 42,
+      "semester": 7,
+      "module_id": 633,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Kenngrößen von Übertragungsmedien und Netzen, Grundlagen der Informationstheorie und Informationsübertragung, MAC-Subschicht und Ethernet, IP-Adressierung und IP-Protokolle, Routing-Algorithmen und Routing-Protokolle, Netzkomponenten und Subnetze"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2147,
+      "code": "Thesis",
+      "name": "Thesis",
+      "type": "exam",
+      "study_month": 42,
+      "semester": 7,
+      "module_id": 143,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    }
+  ]
+}
