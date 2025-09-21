@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project specific
+CLAUDE.md
+debug_raw.json
+
+# HTML test files in root (use tests/fixtures/ instead)
+/*.html
+!tests/fixtures/*.html
+
+# Keep only source files, not generated output
+*.json
+!package.json
+!package-lock.json
+!tests/fixtures/*.json
