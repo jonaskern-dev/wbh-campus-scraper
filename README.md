@@ -81,6 +81,9 @@ scraper.save_to_file("output.json")
 ## Installation
 
 ```bash
+# Via PyPI (recommended)
+pip install wbh-campus-scraper
+
 # Via Homebrew
 brew tap jonaskern-dev/tap
 brew install wbh-campus-scraper
@@ -110,4 +113,4 @@ Jonas Kern - [info@jonaskern.de](mailto:info@jonaskern.de) - [https://jonaskern.
 
 ---
 
-*Version 0.4.0 - Release*
+*Version 0.5.0 - Release*
