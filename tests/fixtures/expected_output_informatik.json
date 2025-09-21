@@ -1,0 +1,4646 @@
+{
+  "study_program": {
+    "id": 46566,
+    "number": "1110",
+    "name": "Informatik (Bachelor)",
+    "degree_type": null
+  },
+  "modules": {
+    "18": {
+      "id": 18,
+      "name": "Einführungsprojekt für Informatiker",
+      "code": "M_INFL",
+      "credit_points": 2,
+      "element_ids": [
+        783
+      ],
+      "exam_ids": [
+        783
+      ],
+      "study_material_ids": []
+    },
+    "881": {
+      "id": 881,
+      "name": "Theoretische Grundlagen der Informatik",
+      "code": "M_TIIA",
+      "credit_points": 8,
+      "element_ids": [
+        2416,
+        4076,
+        4075,
+        4074,
+        4073,
+        4962
+      ],
+      "exam_ids": [
+        4962
+      ],
+      "study_material_ids": [
+        2416,
+        4076,
+        4075,
+        4074,
+        4073
+      ]
+    },
+    "786": {
+      "id": 786,
+      "name": "Mathematische Grundlagen für Informatiker",
+      "code": "M_MGI",
+      "credit_points": 8,
+      "element_ids": [
+        48,
+        1048,
+        1050,
+        57,
+        2149,
+        102,
+        4552
+      ],
+      "exam_ids": [
+        4552
+      ],
+      "study_material_ids": [
+        48,
+        1048,
+        1050,
+        57,
+        2149,
+        102
+      ]
+    },
+    "194": {
+      "id": 194,
+      "name": "Recht und Betriebswirtschaftslehre",
+      "code": "M_RBW",
+      "credit_points": 5,
+      "element_ids": [
+        2165,
+        65,
+        2038,
+        66,
+        1325,
+        39,
+        112,
+        123,
+        2166,
+        2167
+      ],
+      "exam_ids": [
+        2166,
+        2167
+      ],
+      "study_material_ids": [
+        2165,
+        65,
+        2038,
+        66,
+        1325,
+        39,
+        112,
+        123
+      ]
+    },
+    "1043": {
+      "id": 1043,
+      "name": "Grundlagen der objektorientierten Programmierung",
+      "code": "M_GOPB",
+      "credit_points": 6,
+      "element_ids": [
+        6650,
+        6651,
+        5757,
+        5726,
+        5764
+      ],
+      "exam_ids": [
+        5764
+      ],
+      "study_material_ids": [
+        6650,
+        6651,
+        5757,
+        5726
+      ]
+    },
+    "844": {
+      "id": 844,
+      "name": "Weiterführende Mathematik",
+      "code": "M_WMA",
+      "credit_points": 8,
+      "element_ids": [
+        78,
+        101,
+        117,
+        4554,
+        422,
+        4713
+      ],
+      "exam_ids": [
+        4713
+      ],
+      "study_material_ids": [
+        78,
+        101,
+        117,
+        4554,
+        422
+      ]
+    },
+    "510": {
+      "id": 510,
+      "name": "Software Engineering",
+      "code": "M_SEIB",
+      "credit_points": 8,
+      "element_ids": [
+        6516,
+        6515,
+        2178,
+        7368,
+        6514,
+        7393
+      ],
+      "exam_ids": [
+        7393
+      ],
+      "study_material_ids": [
+        6516,
+        6515,
+        2178,
+        7368,
+        6514
+      ]
+    },
+    "199": {
+      "id": 199,
+      "name": "Betriebssysteme und Rechnerarchitektur",
+      "code": "M_BSRA",
+      "credit_points": 8,
+      "element_ids": [
+        738,
+        741,
+        69,
+        91,
+        104,
+        681,
+        2218
+      ],
+      "exam_ids": [
+        2218
+      ],
+      "study_material_ids": [
+        738,
+        741,
+        69,
+        91,
+        104,
+        681
+      ]
+    },
+    "1057": {
+      "id": 1057,
+      "name": "Weiterführende Programmierung",
+      "code": "M_WFP I",
+      "credit_points": 6,
+      "element_ids": [
+        5767
+      ],
+      "exam_ids": [
+        5767
+      ],
+      "study_material_ids": []
+    },
+    "1077": {
+      "id": 1077,
+      "name": "Informationssysteme und Business Intelligence",
+      "code": "M_IBI I",
+      "credit_points": 8,
+      "element_ids": [
+        126,
+        139,
+        6701,
+        6699,
+        1588,
+        2673,
+        7256,
+        8234
+      ],
+      "exam_ids": [
+        8234
+      ],
+      "study_material_ids": [
+        126,
+        139,
+        6701,
+        6699,
+        1588,
+        2673,
+        7256
+      ]
+    },
+    "791": {
+      "id": 791,
+      "name": "Projektmanagement und wissenschaftliches Arbeiten",
+      "code": "M_PWAA",
+      "credit_points": 6,
+      "element_ids": [
+        7,
+        3359,
+        6297,
+        6296,
+        6295,
+        4595
+      ],
+      "exam_ids": [
+        4595
+      ],
+      "study_material_ids": [
+        7,
+        3359,
+        6297,
+        6296,
+        6295
+      ]
+    },
+    "802": {
+      "id": 802,
+      "name": "Informationstechnologie",
+      "code": "M_ITIC",
+      "credit_points": 8,
+      "element_ids": [
+        5012,
+        5011,
+        5010,
+        5009,
+        5008,
+        5007,
+        4566
+      ],
+      "exam_ids": [
+        4566
+      ],
+      "study_material_ids": [
+        5012,
+        5011,
+        5010,
+        5009,
+        5008,
+        5007
+      ]
+    },
+    "210": {
+      "id": 210,
+      "name": "Datenbanken",
+      "code": "M_DBKA",
+      "credit_points": 5,
+      "element_ids": [
+        2391,
+        2392,
+        2393,
+        2394,
+        2395,
+        186,
+        2666,
+        3772
+      ],
+      "exam_ids": [
+        2666,
+        3772
+      ],
+      "study_material_ids": [
+        2391,
+        2392,
+        2393,
+        2394,
+        2395,
+        186
+      ]
+    },
+    "882": {
+      "id": 882,
+      "name": "Verteilte Informationsverarbeitung",
+      "code": "M_VIID",
+      "credit_points": 8,
+      "element_ids": [
+        2840,
+        2841,
+        2842,
+        2843,
+        2844,
+        4961
+      ],
+      "exam_ids": [
+        4961
+      ],
+      "study_material_ids": [
+        2840,
+        2841,
+        2842,
+        2843,
+        2844
+      ]
+    },
+    "1041": {
+      "id": 1041,
+      "name": "Gestaltung der digitalen Transformation",
+      "code": "M_GDT",
+      "credit_points": 6,
+      "element_ids": [
+        5013,
+        5124,
+        8391,
+        8390,
+        8917
+      ],
+      "exam_ids": [
+        8917
+      ],
+      "study_material_ids": [
+        5013,
+        5124,
+        8391,
+        8390
+      ]
+    },
+    "890": {
+      "id": 890,
+      "name": "IT-Management und -Recht",
+      "code": "M_IMRB",
+      "credit_points": 6,
+      "element_ids": [
+        2530,
+        2531,
+        7264,
+        7268
+      ],
+      "exam_ids": [
+        7268
+      ],
+      "study_material_ids": [
+        2530,
+        2531,
+        7264
+      ]
+    },
+    "1082": {
+      "id": 1082,
+      "name": "Multimedia",
+      "code": "M_MUMB",
+      "credit_points": 8,
+      "element_ids": [
+        5306,
+        5751,
+        5752,
+        5753,
+        5754,
+        5771
+      ],
+      "exam_ids": [
+        5771
+      ],
+      "study_material_ids": [
+        5306,
+        5751,
+        5752,
+        5753,
+        5754
+      ]
+    },
+    "74": {
+      "id": 74,
+      "name": "Projektarbeit",
+      "code": "M_Projektarbeit6",
+      "credit_points": null,
+      "element_ids": [
+        4347,
+        4358,
+        2146
+      ],
+      "exam_ids": [
+        2146
+      ],
+      "study_material_ids": [
+        4347,
+        4358
+      ]
+    },
+    "432": {
+      "id": 432,
+      "name": "Kommunikation und Führung",
+      "code": "M_KFIA",
+      "credit_points": 6,
+      "element_ids": [
+        3355,
+        3356,
+        3360,
+        3358,
+        3357,
+        5471,
+        5437,
+        2594
+      ],
+      "exam_ids": [
+        2594
+      ],
+      "study_material_ids": [
+        3355,
+        3356,
+        3360,
+        3358,
+        3357,
+        5471,
+        5437
+      ]
+    },
+    "794": {
+      "id": 794,
+      "name": "Business English",
+      "code": "M_BELB",
+      "credit_points": 3,
+      "element_ids": [
+        1608
+      ],
+      "exam_ids": [
+        1608
+      ],
+      "study_material_ids": []
+    },
+    "406": {
+      "id": 406,
+      "name": "Thesis inkl. Kolloquium",
+      "code": "M_Thesis12",
+      "credit_points": null,
+      "element_ids": [
+        2147
+      ],
+      "exam_ids": [
+        2147
+      ],
+      "study_material_ids": []
+    },
+    "840": {
+      "id": 840,
+      "name": "Servicemanagement",
+      "code": "M_SMA I",
+      "credit_points": 6,
+      "element_ids": [
+        2131,
+        2132,
+        2133,
+        4702
+      ],
+      "exam_ids": [
+        4702
+      ],
+      "study_material_ids": [
+        2131,
+        2132,
+        2133
+      ]
+    },
+    "1196": {
+      "id": 1196,
+      "name": "Einführung und Anwendung der Künstlichen Intelligenz",
+      "code": "M_KIEA",
+      "credit_points": 6,
+      "element_ids": [
+        6403,
+        6400,
+        2057,
+        6402,
+        6401,
+        6381
+      ],
+      "exam_ids": [
+        6381
+      ],
+      "study_material_ids": [
+        6403,
+        6400,
+        2057,
+        6402,
+        6401
+      ]
+    },
+    "10": {
+      "id": 10,
+      "name": "Digital- und Mikrorechentechnik",
+      "code": "M_MRT",
+      "credit_points": 6,
+      "element_ids": [
+        704
+      ],
+      "exam_ids": [
+        704
+      ],
+      "study_material_ids": []
+    },
+    "509": {
+      "id": 509,
+      "name": "Berufspraktische Phase",
+      "code": "M_BPP15",
+      "credit_points": null,
+      "element_ids": [
+        2217
+      ],
+      "exam_ids": [
+        2217
+      ],
+      "study_material_ids": []
+    }
+  },
+  "elements": [
+    {
+      "id": 850,
+      "code": "CSUSPrakt",
+      "name": "CSUS Praktikum",
+      "type": "learning_module",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4744,
+      "code": "Kompaktkurse",
+      "name": "Kompaktkurse buchen",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 8821,
+      "code": "O-CCLL",
+      "name": "Online-Kompaktkurs Lernen lernen",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7730,
+      "code": "O-VGPT",
+      "name": "Vortrag: Anwendung von KI-Sprachmodellen (u.a. ChatGPT) beim wissenschaftlichen Schreiben",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7117,
+      "code": "Online-KlausurTEST",
+      "name": "Online-Klausur Testelement: Probeklausur",
+      "type": "seminar",
+      "study_month": 0,
+      "semester": 0,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 783,
+      "code": "B-INF01XX",
+      "name": "Einführungsprojekt für Informatiker",
+      "type": "exam",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 18,
+      "credit_points": 2,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": "1.7",
+        "mark_label": "1.7",
+        "esa_send_date": "14.05.2025",
+        "esa_grade_date": "21.05.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 14.05.2025<br /><b>Benotungsdatum:</b> 21.05.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 849,
+      "code": "Einf",
+      "name": "Einführungsveranstaltung",
+      "type": "seminar",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7887,
+      "code": "Einf-INF",
+      "name": "Einführungsveranstaltung Informatik",
+      "type": "seminar",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2416,
+      "code": "GDI01",
+      "name": "Einführung in die Informatik",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 881,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "GDI01_0723K15.html",
+          "content_type": "html",
+          "size": "10,66 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "GDI01_K15.pdf",
+          "content_type": "pdf",
+          "size": "2,40 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_K15.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "GDI01_0723K15.epub",
+          "content_type": "epub",
+          "size": "5,22 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "GDI01_0723K15.zip",
+          "content_type": "zip",
+          "size": "89,46 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "GDI01_0723K15.mp3",
+          "content_type": "mp3",
+          "size": "75,98 MB",
+          "url": "/infoseiten/Lm/gdi01/doc/GDI01_0723K15.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 48,
+      "code": "MAI01A",
+      "name": "Grundlagen der Mathematik Teil 1a: Mengen, Zahlenmengen, Vollständige Induktion",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI01A_0823K19.html",
+          "content_type": "html",
+          "size": "11,46 MB",
+          "url": "/infoseiten/Lm/mai01a/doc/MAI01A_0823K19.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI01A_0823K19.pdf",
+          "content_type": "pdf",
+          "size": "2,21 MB",
+          "url": "/infoseiten/Lm/mai01a/doc/MAI01A_0823K19.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI01A_0823K19.epub",
+          "content_type": "epub",
+          "size": "68,22 MB",
+          "url": "/infoseiten/Lm/mai01a/doc/MAI01A_0823K19.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2165,
+      "code": "RLB01",
+      "name": "Grundlagen des Zivilrechts",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "RLB01_0125K10.pdf",
+          "content_type": "pdf",
+          "size": "3,94 MB",
+          "url": "/infoseiten/Lm/rlb01/doc/RLB01_0125K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "RLB01_0125K10.epub",
+          "content_type": "epub",
+          "size": "7,39 MB",
+          "url": "/infoseiten/Lm/rlb01/doc/RLB01_0125K10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "RLB01_0125K10.html",
+          "content_type": "html",
+          "size": "11,56 MB",
+          "url": "/infoseiten/Lm/rlb01/doc/RLB01_0125K10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2907,
+      "code": "SBB01e",
+      "name": "Wegweiser Bachelor",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5746,
+      "code": "SBINBPO3",
+      "name": "Fachlicher Studienbegleiter Informatik (B.Sc.)",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SBINBPO3_K06.html",
+          "content_type": "html",
+          "size": "3,27 MB",
+          "url": "/infoseiten/Lm/sbinbpo3/doc/SBINBPO3_K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SBINBPO3_K06.epub",
+          "content_type": "epub",
+          "size": "2,83 MB",
+          "url": "/infoseiten/Lm/sbinbpo3/doc/SBINBPO3_K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SBINBPO3_K06.pdf",
+          "content_type": "pdf",
+          "size": "1,18 MB",
+          "url": "/infoseiten/Lm/sbinbpo3/doc/SBINBPO3_K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7955,
+      "code": "WBT-DSKI",
+      "name": "WBT Digital Skills und KI-Coaching",
+      "type": "learning_module",
+      "study_month": 1,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 65,
+      "code": "BWI01",
+      "name": "Betriebswirtschaftliche Grundlagen",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BWI01_0223A10.epub",
+          "content_type": "epub",
+          "size": "6,81 MB",
+          "url": "/infoseiten/Lm/bwi01/doc/BWI01_0223A10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "BWI01_0223A10.pdf",
+          "content_type": "pdf",
+          "size": "1,87 MB",
+          "url": "/infoseiten/Lm/bwi01/doc/BWI01_0223A10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BWI01_0223A10.html",
+          "content_type": "html",
+          "size": "11,10 MB",
+          "url": "/infoseiten/Lm/bwi01/doc/BWI01_0223A10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1048,
+      "code": "MAI01C",
+      "name": "Grundlagen der Mathematik Teil 1C: Komplexe Zahlen, Relationen, Finanzmathematik",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI01C_0823K12.html",
+          "content_type": "html",
+          "size": "11,57 MB",
+          "url": "/infoseiten/Lm/mai01c/doc/MAI01C_0823K12.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI01C_0923K12.pdf",
+          "content_type": "pdf",
+          "size": "1,66 MB",
+          "url": "/infoseiten/Lm/mai01c/doc/MAI01C_0923K12.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI01C_0823K12.epub",
+          "content_type": "epub",
+          "size": "44,41 MB",
+          "url": "/infoseiten/Lm/mai01c/doc/MAI01C_0823K12.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2038,
+      "code": "RLB02",
+      "name": "Grundlagen des Arbeitsrechts",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "RLB02_0125A10.pdf",
+          "content_type": "pdf",
+          "size": "2,15 MB",
+          "url": "/infoseiten/Lm/rlb02/doc/RLB02_0125A10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "RLB02_0125A10.epub",
+          "content_type": "epub",
+          "size": "3,96 MB",
+          "url": "/infoseiten/Lm/rlb02/doc/RLB02_0125A10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "RLB02_0125A10.html",
+          "content_type": "html",
+          "size": "8,04 MB",
+          "url": "/infoseiten/Lm/rlb02/doc/RLB02_0125A10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4076,
+      "code": "TGI01",
+      "name": "Datenstrukturen und Algorithmen",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 881,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TGI01_0723K09.epub",
+          "content_type": "epub",
+          "size": "6,33 MB",
+          "url": "/infoseiten/Lm/tgi01/doc/TGI01_0723K09.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "TGI01_0723K09.html",
+          "content_type": "html",
+          "size": "12,62 MB",
+          "url": "/infoseiten/Lm/tgi01/doc/TGI01_0723K09.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TGI01_K09.pdf",
+          "content_type": "pdf",
+          "size": "2,29 MB",
+          "url": "/infoseiten/Lm/tgi01/doc/TGI01_K09.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6650,
+      "code": "PYTH2BU",
+      "name": "Theis: Einstieg in Python",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 1043,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6651,
+      "code": "PYTH200",
+      "name": "Begleitheft zu PYTH2BU",
+      "type": "learning_module",
+      "study_month": 2,
+      "semester": 1,
+      "module_id": 1043,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": "3.0",
+        "mark_label": "3.0",
+        "esa_send_date": "16.08.2025",
+        "esa_grade_date": "21.08.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 16.08.2025<br /><b>Benotungsdatum:</b> 21.08.2025",
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "PYTH200_0822K02.pdf",
+          "content_type": "pdf",
+          "size": "674,91 KB",
+          "url": "/infoseiten/Lm/pyth200/doc/PYTH200_0822K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "PYTH200_0822K02.html",
+          "content_type": "html",
+          "size": "2,59 MB",
+          "url": "/infoseiten/Lm/pyth200/doc/PYTH200_0822K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "PYTH200_0822K02.epub",
+          "content_type": "epub",
+          "size": "1,43 MB",
+          "url": "/infoseiten/Lm/pyth200/doc/PYTH200_0822K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 66,
+      "code": "BWI02",
+      "name": "Organisatorische Strukturen",
+      "type": "learning_module",
+      "study_month": 3,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BWI02_0910K07.pdf",
+          "content_type": "pdf",
+          "size": "6,92 MB",
+          "url": "/infoseiten/Lm/bwi02/doc/BWI02_0910K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1050,
+      "code": "MAI17",
+      "name": "Lineare Algebra: Lineare Gleichungssysteme und Matrizen",
+      "type": "learning_module",
+      "study_month": 3,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI17_0725K12.pdf",
+          "content_type": "pdf",
+          "size": "1,50 MB",
+          "url": "/infoseiten/Lm/mai17/doc/MAI17_0725K12.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1325,
+      "code": "MMG03B",
+      "name": "Recht in der Medienwirtschaft",
+      "type": "learning_module",
+      "study_month": 3,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "MMG03B_0625A08.pdf",
+          "content_type": "pdf",
+          "size": "1,91 MB",
+          "url": "/infoseiten/Lm/mmg03b/doc/MMG03B_0625A08.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MMG03B_0625A08.epub",
+          "content_type": "epub",
+          "size": "4,17 MB",
+          "url": "/infoseiten/Lm/mmg03b/doc/MMG03B_0625A08.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MMG03B_0625A08.html",
+          "content_type": "html",
+          "size": "9,01 MB",
+          "url": "/infoseiten/Lm/mmg03b/doc/MMG03B_0625A08.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 39,
+      "code": "BWI03",
+      "name": "Unternehmensführung",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BWI03_0420A06.pdf",
+          "content_type": "pdf",
+          "size": "4,85 MB",
+          "url": "/infoseiten/Lm/bwi03/doc/BWI03_0420A06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BWI03_0420A06.zip",
+          "content_type": "zip",
+          "size": "98,03 MB",
+          "url": "/infoseiten/Lm/bwi03/doc/BWI03_0420A06.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BWI03_0420A06.html",
+          "content_type": "html",
+          "size": "12,24 MB",
+          "url": "/infoseiten/Lm/bwi03/doc/BWI03_0420A06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BWI03_0420A06.mp3",
+          "content_type": "mp3",
+          "size": "81,19 MB",
+          "url": "/infoseiten/Lm/bwi03/doc/BWI03_0420A06.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BWI03_0420A06.epub",
+          "content_type": "epub",
+          "size": "7,08 MB",
+          "url": "/infoseiten/Lm/bwi03/doc/BWI03_0420A06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 112,
+      "code": "BWI04",
+      "name": "Material- und Produktionswirtschaft",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BWI04_0614K04.mp3",
+          "content_type": "mp3",
+          "size": "49,31 MB",
+          "url": "/infoseiten/Lm/bwi04/doc/BWI04_0614K04.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BWI04_0614K04.pdf",
+          "content_type": "pdf",
+          "size": "1,11 MB",
+          "url": "/infoseiten/Lm/bwi04/doc/BWI04_0614K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BWI04_0614K04.html",
+          "content_type": "html",
+          "size": "10,98 MB",
+          "url": "/infoseiten/Lm/bwi04/doc/BWI04_0614K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BWI04_0614K04.zip",
+          "content_type": "zip",
+          "size": "65,59 MB",
+          "url": "/infoseiten/Lm/bwi04/doc/BWI04_0614K04.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 57,
+      "code": "MAI03",
+      "name": "Grundlagen der Logik",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI03_0325K11.html",
+          "content_type": "html",
+          "size": "8,23 MB",
+          "url": "/infoseiten/Lm/mai03/doc/MAI03_0325K11.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI03_0325K11.pdf",
+          "content_type": "pdf",
+          "size": "2,67 MB",
+          "url": "/infoseiten/Lm/mai03/doc/MAI03_0325K11.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI03_0325K11.epub",
+          "content_type": "epub",
+          "size": "30,88 MB",
+          "url": "/infoseiten/Lm/mai03/doc/MAI03_0325K11.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2149,
+      "code": "MAI24",
+      "name": "Funktionenlehre",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI24_K10.epub",
+          "content_type": "epub",
+          "size": "227,32 MB",
+          "url": "/infoseiten/Lm/mai24/doc/MAI24_K10.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MAI24_K10.pdf",
+          "content_type": "pdf",
+          "size": "5,48 MB",
+          "url": "/infoseiten/Lm/mai24/doc/MAI24_K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI24_K10.html",
+          "content_type": "html",
+          "size": "13,53 MB",
+          "url": "/infoseiten/Lm/mai24/doc/MAI24_K10.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 743,
+      "code": "SIS_S",
+      "name": "Systemsoftware SiSy",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": null,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4075,
+      "code": "TGI02",
+      "name": "Algorithmen und Komplexität",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 881,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TGI02_0222K06.pdf",
+          "content_type": "pdf",
+          "size": "2,60 MB",
+          "url": "/infoseiten/Lm/tgi02/doc/TGI02_0222K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "TGI02_0222K06.html",
+          "content_type": "html",
+          "size": "13,33 MB",
+          "url": "/infoseiten/Lm/tgi02/doc/TGI02_0222K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TGI02_0222K06.epub",
+          "content_type": "epub",
+          "size": "7,45 MB",
+          "url": "/infoseiten/Lm/tgi02/doc/TGI02_0222K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5757,
+      "code": "JAPR01",
+      "name": "Programmieren mit Java I",
+      "type": "learning_module",
+      "study_month": 4,
+      "semester": 1,
+      "module_id": 1043,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "JAPR01_0725K05.pdf",
+          "content_type": "pdf",
+          "size": "1,30 MB",
+          "url": "/infoseiten/Lm/japr01/doc/JAPR01_0725K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 123,
+      "code": "BWI05",
+      "name": "Absatz und Marketing",
+      "type": "learning_module",
+      "study_month": 5,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BWI05_0310A04.pdf",
+          "content_type": "pdf",
+          "size": "3,46 MB",
+          "url": "/infoseiten/Lm/bwi05/doc/BWI05_0310A04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 102,
+      "code": "MAI10",
+      "name": "Stochastik I",
+      "type": "learning_module",
+      "study_month": 5,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI10_0923K24.pdf",
+          "content_type": "pdf",
+          "size": "1,47 MB",
+          "url": "/infoseiten/Lm/mai10/doc/MAI10_0923K24.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5726,
+      "code": "JAPR02",
+      "name": "Programmieren mit Java II",
+      "type": "learning_module",
+      "study_month": 5,
+      "semester": 1,
+      "module_id": 1043,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": "3.7",
+        "mark_label": "3.7",
+        "esa_send_date": "24.01.2023",
+        "esa_grade_date": "04.02.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 24.01.2023<br /><b>Benotungsdatum:</b> 04.02.2023",
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "JAPR02_0720N01.pdf",
+          "content_type": "pdf",
+          "size": "1,79 MB",
+          "url": "/infoseiten/Lm/japr02/doc/JAPR02_0720N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2166,
+      "code": "B-RBW01XX",
+      "name": "Recht",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "3.7",
+        "mark_label": "3.7",
+        "esa_send_date": "30.06.2024",
+        "esa_grade_date": "02.07.2024",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 20.08.2024<br /><b>Zugewiesen am:</b> 12.04.2024<br /><b>Einsendung bis:</b> 18.02.2025<br /><b>Lösungseingang:</b> 30.06.2024<br /><b>Benotungsdatum:</b> 02.07.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4552,
+      "code": "MGIPS",
+      "name": "Mathematische Grundlagen",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 786,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Aussagenlogik, Extremwerte und Wendepunkte, Invertierung von Matrizen, Lineare Gleichungssysteme, Normalverteilung, Partialbruchzerlegung, Relationen, Vollständige Induktion, Determinanten, Finanzmathematik, Grenzwerte, Komplexe Zahlen, Mengen, Stetigkeit, Tangenten"
+      },
+      "mark_and_points": {
+        "mark": "2.3",
+        "mark_label": "2.3",
+        "esa_send_date": "09.06.2025",
+        "esa_grade_date": "17.06.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 09.06.2025<br /><b>Benotungsdatum:</b> 17.06.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2167,
+      "code": "RBWPS",
+      "name": "Recht und Betriebswirtschaftslehre",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 194,
+      "credit_points": 5,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Aufgaben der Unternehmensführung kennen und analysieren können, Fertigungsverfahren beschreiben und ihre jeweiligen Stärken und Schwächen einschätzen können, Marketingmix beschreiben und Auswahlentscheidungen begründet treffen können, Organisationsstrukturen formal beschreiben und ihre jeweiligen Stärken und Schwächen einschätzen können, Rechtsformen von Unternehmen kennen und ihre jeweiligen Stärken und Schwächen einschätzen können, betrieblicher Standort, Elemente des Marketing Mix (Kontrahierungspolitik, Produkpolitik, Distributionspolitik, Kommunikationspolitik), Gestaltungsrahmen der Unternehmensführung, Grundbegriffe der Organisation und ausgewählte und organisationstheoretische Ansätze, Kernfunktionen und Kernprozesse, Lagerhaltung, Managementfunktionen und -prozesse, Produktionswirtschaft, Unterstützungsfunktionen und -prozesse"
+      },
+      "mark_and_points": {
+        "mark": "1.0",
+        "mark_label": "1.0",
+        "esa_send_date": "23.06.2024",
+        "esa_grade_date": "06.07.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 23.06.2024<br /><b>Benotungsdatum:</b> 06.07.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5764,
+      "code": "B-GOPB01XX",
+      "name": "Grundlagen der objektorientierten Programmierung",
+      "type": "exam",
+      "study_month": 6,
+      "semester": 1,
+      "module_id": 1043,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "1.7",
+        "mark_label": "1.7",
+        "esa_send_date": "05.11.2025",
+        "esa_grade_date": "19.11.2025",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 12.04.2024<br /><b>Zugewiesen am:</b> 12.04.2024<br /><b>Einsendung bis:</b> 12.10.2024<br /><b>Lösungseingang:</b> 05.11.2025<br /><b>Benotungsdatum:</b> 19.11.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 78,
+      "code": "MAI06",
+      "name": "Vektoralgebra und Analytische Geometrie",
+      "type": "learning_module",
+      "study_month": 7,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI06_1124K19.pdf",
+          "content_type": "pdf",
+          "size": "2,43 MB",
+          "url": "/infoseiten/Lm/mai06/doc/MAI06_1124K19.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI06_1124K19.html",
+          "content_type": "html",
+          "size": "10,53 MB",
+          "url": "/infoseiten/Lm/mai06/doc/MAI06_1124K19.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI06_1124K19.epub",
+          "content_type": "epub",
+          "size": "61,60 MB",
+          "url": "/infoseiten/Lm/mai06/doc/MAI06_1124K19.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4074,
+      "code": "TGI06",
+      "name": "Formale Sprachen und abstrakte Automaten 1",
+      "type": "learning_module",
+      "study_month": 7,
+      "semester": 2,
+      "module_id": 881,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TGI06_K05.html",
+          "content_type": "html",
+          "size": "24,02 MB",
+          "url": "/infoseiten/Lm/tgi06/doc/TGI06_K05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TGI06_K05.epub",
+          "content_type": "epub",
+          "size": "13,15 MB",
+          "url": "/infoseiten/Lm/tgi06/doc/TGI06_K05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "TGI06_K05.pdf",
+          "content_type": "pdf",
+          "size": "3,20 MB",
+          "url": "/infoseiten/Lm/tgi06/doc/TGI06_K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6516,
+      "code": "SEI21",
+      "name": "Software Engineering",
+      "type": "learning_module",
+      "study_month": 7,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI21_0125K05.pdf",
+          "content_type": "pdf",
+          "size": "1,37 MB",
+          "url": "/infoseiten/Lm/sei21/doc/SEI21_0125K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 101,
+      "code": "MAI09",
+      "name": "Reihen und Integraltransformationen",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI09_0325K18.html",
+          "content_type": "html",
+          "size": "10,16 MB",
+          "url": "/infoseiten/Lm/mai09/doc/MAI09_0325K18.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI09_0325K18.pdf",
+          "content_type": "pdf",
+          "size": "2,44 MB",
+          "url": "/infoseiten/Lm/mai09/doc/MAI09_0325K18.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI09_0325K18.epub",
+          "content_type": "epub",
+          "size": "89,40 MB",
+          "url": "/infoseiten/Lm/mai09/doc/MAI09_0325K18.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 738,
+      "code": "BSI01a",
+      "name": "UNIX Eine Einführung",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI01A_0707N01.zip",
+          "content_type": "zip",
+          "size": "103,10 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI01A_0707N01.pdf",
+          "content_type": "pdf",
+          "size": "5,24 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BSI01A_0707N01.mp3",
+          "content_type": "mp3",
+          "size": "78,47 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI01A_0707N01.html",
+          "content_type": "html",
+          "size": "11,32 MB",
+          "url": "/infoseiten/Lm/bsi01a/doc/BSI01A_0707N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6515,
+      "code": "SEI22",
+      "name": "Grundlagen der agilen Entwicklung",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI22_0524K02.epub",
+          "content_type": "epub",
+          "size": "6,48 MB",
+          "url": "/infoseiten/Lm/sei22/doc/SEI22_0524K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEI22_0524K02.html",
+          "content_type": "html",
+          "size": "9,09 MB",
+          "url": "/infoseiten/Lm/sei22/doc/SEI22_0524K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI22_0524K02.pdf",
+          "content_type": "pdf",
+          "size": "3,48 MB",
+          "url": "/infoseiten/Lm/sei22/doc/SEI22_0524K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2178,
+      "code": "SEI12",
+      "name": "Unified Modeling Language",
+      "type": "learning_module",
+      "study_month": 8,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI12_0823K04.html",
+          "content_type": "html",
+          "size": "19,72 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_0823K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI12_0823K04.epub",
+          "content_type": "epub",
+          "size": "15,84 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_0823K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEI12_K04.pdf",
+          "content_type": "pdf",
+          "size": "8,93 MB",
+          "url": "/infoseiten/Lm/sei12/doc/SEI12_K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 117,
+      "code": "MAI13",
+      "name": "Gewöhnliche Differenzialgleichungen",
+      "type": "learning_module",
+      "study_month": 9,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI13_K19.html",
+          "content_type": "html",
+          "size": "9,32 MB",
+          "url": "/infoseiten/Lm/mai13/doc/MAI13_K19.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI13_K19.pdf",
+          "content_type": "pdf",
+          "size": "2,97 MB",
+          "url": "/infoseiten/Lm/mai13/doc/MAI13_K19.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI13_K19.epub",
+          "content_type": "epub",
+          "size": "50,70 MB",
+          "url": "/infoseiten/Lm/mai13/doc/MAI13_K19.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 741,
+      "code": "BSI02a",
+      "name": "Nutzung des Betriebssystems UNIX",
+      "type": "learning_module",
+      "study_month": 9,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI02A_1109A02.html",
+          "content_type": "html",
+          "size": "10,80 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BSI02A_1109A02.zip",
+          "content_type": "zip",
+          "size": "155,74 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI02A_1109A02.mp3",
+          "content_type": "mp3",
+          "size": "126,57 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI02A_1109A02.pdf",
+          "content_type": "pdf",
+          "size": "11,74 MB",
+          "url": "/infoseiten/Lm/bsi02a/doc/BSI02A_1109A02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4554,
+      "code": "MAI14c",
+      "name": "Numerische Methoden",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI14C_1118K03.epub",
+          "content_type": "epub",
+          "size": "12,88 MB",
+          "url": "/infoseiten/Lm/mai14c/doc/MAI14C_1118K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MAI14C_1118K03.pdf",
+          "content_type": "pdf",
+          "size": "2,26 MB",
+          "url": "/infoseiten/Lm/mai14c/doc/MAI14C_1118K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MAI14C_1118K03.html",
+          "content_type": "html",
+          "size": "4,09 MB",
+          "url": "/infoseiten/Lm/mai14c/doc/MAI14C_1118K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4073,
+      "code": "TGI07",
+      "name": "Formale Sprachen und abstrakte Automaten 2",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 881,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "TGI07_K04.pdf",
+          "content_type": "pdf",
+          "size": "3,53 MB",
+          "url": "/infoseiten/Lm/tgi07/doc/TGI07_K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "TGI07_K04.html",
+          "content_type": "html",
+          "size": "14,41 MB",
+          "url": "/infoseiten/Lm/tgi07/doc/TGI07_K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "TGI07_K04.epub",
+          "content_type": "epub",
+          "size": "8,34 MB",
+          "url": "/infoseiten/Lm/tgi07/doc/TGI07_K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 69,
+      "code": "BSI03",
+      "name": "Rechnerarchitekturen",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI03_0718K07.pdf",
+          "content_type": "pdf",
+          "size": "1,29 MB",
+          "url": "/infoseiten/Lm/bsi03/doc/BSI03_0718K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 91,
+      "code": "BSI04",
+      "name": "Betriebssysteme",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI04_1117K10.pdf",
+          "content_type": "pdf",
+          "size": "3,66 MB",
+          "url": "/infoseiten/Lm/bsi04/doc/BSI04_1117K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7368,
+      "code": "SEI25",
+      "name": "Softwarearchitekturen",
+      "type": "learning_module",
+      "study_month": 10,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI25_0323N01.epub",
+          "content_type": "epub",
+          "size": "5,46 MB",
+          "url": "/infoseiten/Lm/sei25/doc/SEI25_0323N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "SEI25_0323N01.pdf",
+          "content_type": "pdf",
+          "size": "1,75 MB",
+          "url": "/infoseiten/Lm/sei25/doc/SEI25_0323N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SEI25_0323N01.html",
+          "content_type": "html",
+          "size": "10,27 MB",
+          "url": "/infoseiten/Lm/sei25/doc/SEI25_0323N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 422,
+      "code": "MAI11",
+      "name": "Stochastik II",
+      "type": "learning_module",
+      "study_month": 11,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MAI11_0325K13.html",
+          "content_type": "html",
+          "size": "10,65 MB",
+          "url": "/infoseiten/Lm/mai11/doc/MAI11_0325K13.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MAI11_0325K13.epub",
+          "content_type": "epub",
+          "size": "4,27 MB",
+          "url": "/infoseiten/Lm/mai11/doc/MAI11_0325K13.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MAI11_0325K13.pdf",
+          "content_type": "pdf",
+          "size": "3,24 MB",
+          "url": "/infoseiten/Lm/mai11/doc/MAI11_0325K13.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 104,
+      "code": "BSI05",
+      "name": "Betriebssysteme II",
+      "type": "learning_module",
+      "study_month": 11,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI05_0424A03.zip",
+          "content_type": "zip",
+          "size": "91,85 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "BSI05_A03.epub",
+          "content_type": "epub",
+          "size": "5,25 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_A03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "BSI05_0424A03.mp3",
+          "content_type": "mp3",
+          "size": "76,21 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "BSI05_A03.html",
+          "content_type": "html",
+          "size": "9,30 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_A03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "BSI05_0424A03.pdf",
+          "content_type": "pdf",
+          "size": "2,16 MB",
+          "url": "/infoseiten/Lm/bsi05/doc/BSI05_0424A03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6514,
+      "code": "SEI23",
+      "name": "Qualitätssicherung von Software",
+      "type": "learning_module",
+      "study_month": 11,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "SEI23_0323N01.pdf",
+          "content_type": "pdf",
+          "size": "2,87 MB",
+          "url": "/infoseiten/Lm/sei23/doc/SEI23_0323N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "SEI23_0323N01.html",
+          "content_type": "html",
+          "size": "11,28 MB",
+          "url": "/infoseiten/Lm/sei23/doc/SEI23_0323N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "SEI23_0323N01.epub",
+          "content_type": "epub",
+          "size": "9,18 MB",
+          "url": "/infoseiten/Lm/sei23/doc/SEI23_0323N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 681,
+      "code": "BSI06",
+      "name": "Rechnerarchitektur II",
+      "type": "learning_module",
+      "study_month": 11,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "BSI06_0806N01.pdf",
+          "content_type": "pdf",
+          "size": "1,07 MB",
+          "url": "/infoseiten/Lm/bsi06/doc/BSI06_0806N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4962,
+      "code": "TIIAPS",
+      "name": "Theoretische Grundlagen der Informatik",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 881,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Algorithmen, Formale Sprachen, Hashing, O-Symbolik, Bäume und Graphen, Datentypen, LL(k) und LR(k), Relationen, Schaltungen, Zahlensysteme"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4713,
+      "code": "WMAPS",
+      "name": "Weiterführende Mathematik",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 844,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Gerade und Ebene, Interpolation mit Polynomen, Lineare Abhängigkeit, Lineare Differenzialgleichungen, Newtonverfahren, Numerische Lösung von Differenzialgleichungen, Reihen und Potenzreihen, Fourierreihe, Fouriertransformation, Laplacetransformation, Regressionsgerade, Splinefunktionen"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5767,
+      "code": "WFP1PS",
+      "name": "Weiterführende Programmierung",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 1057,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "C-Code Verstehen/Tracing/ Ausgabe, C-Code: Funktionen iterativ, rekursiv, Zeiger, Arrays, Fehlererkennung, Objektorientierten Code C++"
+      },
+      "mark_and_points": {
+        "mark": "ok",
+        "mark_label": "bestanden",
+        "esa_send_date": "03.09.2024",
+        "esa_grade_date": "13.09.2024",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 03.09.2024<br /><b>Benotungsdatum:</b> 13.09.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7393,
+      "code": "SEIB2PS",
+      "name": "Software Engineering",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 510,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial",
+        "core_topics": "Qualitätssicherung von Software, Software-Architekturen, UML Activity, UML Klassendiagramm, UML Sequence/State, UML Use Case, Vorgehens-/Phasenmodelle"
+      },
+      "mark_and_points": {
+        "mark": "2.0",
+        "mark_label": "2.0",
+        "esa_send_date": "10.11.2023",
+        "esa_grade_date": "23.11.2023",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 10.11.2023<br /><b>Benotungsdatum:</b> 23.11.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2218,
+      "code": "BSRAPS",
+      "name": "Betriebssysteme und Rechnerarchitektur",
+      "type": "exam",
+      "study_month": 12,
+      "semester": 2,
+      "module_id": 199,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Architekturmodell Betriebssysteme, Childprozesse, Grundlagen Betriebssysteme (Mehrbenutzer, GUI), Maschinenbefehle, Prozesse, Threads, Virtueller und verteilter Speicher, Von-Neumann und Harvard-Architektur"
+      },
+      "mark_and_points": {
+        "mark": "1.7",
+        "mark_label": "1.7",
+        "esa_send_date": "22.12.2025",
+        "esa_grade_date": "01.01.2026",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 22.12.2025<br /><b>Benotungsdatum:</b> 01.01.2026",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 126,
+      "code": "GMI01",
+      "name": "Betriebliche Potenzialstrukturierung",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "GMI01_0409A03.pdf",
+          "content_type": "pdf",
+          "size": "4,01 MB",
+          "url": "/infoseiten/Lm/gmi01/doc/GMI01_0409A03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7,
+      "code": "IMI03",
+      "name": "Projektmanagement",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IMI03_0619A05.epub",
+          "content_type": "epub",
+          "size": "6,73 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IMI03_0619A05.html",
+          "content_type": "html",
+          "size": "9,96 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IMI03_0619A05.mp3",
+          "content_type": "mp3",
+          "size": "101,34 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "IMI03_0619A05.pdf",
+          "content_type": "pdf",
+          "size": "3,82 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IMI03_0619A05.zip",
+          "content_type": "zip",
+          "size": "119,10 MB",
+          "url": "/infoseiten/Lm/imi03/doc/IMI03_0619A05.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5012,
+      "code": "ITI21",
+      "name": "Grundlagen moderner Computernetze",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI21_1022K03.html",
+          "content_type": "html",
+          "size": "11,92 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI21_1022K03.mp3",
+          "content_type": "mp3",
+          "size": "63,88 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "ITI21_1022K03.zip",
+          "content_type": "zip",
+          "size": "84,82 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "ITI21_1022K03.epub",
+          "content_type": "epub",
+          "size": "8,17 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI21_1022K03.pdf",
+          "content_type": "pdf",
+          "size": "3,27 MB",
+          "url": "/infoseiten/Lm/iti21/doc/ITI21_1022K03.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2391,
+      "code": "DBI11",
+      "name": "Theoretische Grundlagen von DB-Systemen",
+      "type": "learning_module",
+      "study_month": 13,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI11_0213N01.pdf",
+          "content_type": "pdf",
+          "size": "3,17 MB",
+          "url": "/infoseiten/Lm/dbi11/doc/DBI11_0213N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 3359,
+      "code": "FUM08Z",
+      "name": "Führungsaspekte des Projektmanagements",
+      "type": "learning_module",
+      "study_month": 14,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "FUM08Z_0619A05.html",
+          "content_type": "html",
+          "size": "10,71 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "FUM08Z_0619A05.epub",
+          "content_type": "epub",
+          "size": "6,95 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "FUM08Z_0619A05.pdf",
+          "content_type": "pdf",
+          "size": "3,93 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "FUM08Z_0619A05.zip",
+          "content_type": "zip",
+          "size": "106,83 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "FUM08Z_0619A05.mp3",
+          "content_type": "mp3",
+          "size": "90,14 MB",
+          "url": "/infoseiten/Lm/fum08z/doc/FUM08Z_0619A05.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 139,
+      "code": "GMI02",
+      "name": "Betriebliche Prozessstrukturen",
+      "type": "learning_module",
+      "study_month": 14,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "GMI02_0522K10.pdf",
+          "content_type": "pdf",
+          "size": "6,35 MB",
+          "url": "/infoseiten/Lm/gmi02/doc/GMI02_0522K10.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5011,
+      "code": "ITI22",
+      "name": "Informationstheoretische und physikalisch-technische Grundlagen",
+      "type": "learning_module",
+      "study_month": 14,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI22_0825K07.html",
+          "content_type": "html",
+          "size": "14,58 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI22_0825K07.pdf",
+          "content_type": "pdf",
+          "size": "5,12 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI22_0825K07.epub",
+          "content_type": "epub",
+          "size": "8,46 MB",
+          "url": "/infoseiten/Lm/iti22/doc/ITI22_0825K07.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2392,
+      "code": "DBI12",
+      "name": "Technische Grundlagen von DB-Systemen",
+      "type": "learning_module",
+      "study_month": 14,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI12_0313N01.pdf",
+          "content_type": "pdf",
+          "size": "1,30 MB",
+          "url": "/infoseiten/Lm/dbi12/doc/DBI12_0313N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "DBI12_0313N01.mp3",
+          "content_type": "mp3",
+          "size": "67,80 MB",
+          "url": "/infoseiten/Lm/dbi12/doc/DBI12_0313N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "DBI12_0313N01.html",
+          "content_type": "html",
+          "size": "9,19 MB",
+          "url": "/infoseiten/Lm/dbi12/doc/DBI12_0313N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "DBI12_0313N01.zip",
+          "content_type": "zip",
+          "size": "84,73 MB",
+          "url": "/infoseiten/Lm/dbi12/doc/DBI12_0313N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6701,
+      "code": "BAWB01",
+      "name": "Betriebliche Anwendungssysteme - Begleitheft zu BAWBBU01",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BAWB01_N01.epub",
+          "content_type": "epub",
+          "size": "3,36 MB",
+          "url": "/infoseiten/Lm/bawb01/doc/BAWB01_N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "BAWB01_N01.pdf",
+          "content_type": "pdf",
+          "size": "2,41 MB",
+          "url": "/infoseiten/Lm/bawb01/doc/BAWB01_N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BAWB01_N01.html",
+          "content_type": "html",
+          "size": "3,83 MB",
+          "url": "/infoseiten/Lm/bawb01/doc/BAWB01_N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5010,
+      "code": "ITI23",
+      "name": "Bitübertragung und Netzzugang",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI23_1022K04.pdf",
+          "content_type": "pdf",
+          "size": "3,63 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI23_1022K04.epub",
+          "content_type": "epub",
+          "size": "10,12 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI23_1022K04.html",
+          "content_type": "html",
+          "size": "14,48 MB",
+          "url": "/infoseiten/Lm/iti23/doc/ITI23_1022K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6297,
+      "code": "WAM02",
+      "name": "Wissenschaftliches Arbeiten Teil 1 – Einführung und Grundlagen",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "WAM02_0524K02.pdf",
+          "content_type": "pdf",
+          "size": "878,82 KB",
+          "url": "/infoseiten/Lm/wam02/doc/WAM02_0524K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "WAM02_0524K02.epub",
+          "content_type": "epub",
+          "size": "1,32 MB",
+          "url": "/infoseiten/Lm/wam02/doc/WAM02_0524K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "WAM02_0524K02.html",
+          "content_type": "html",
+          "size": "2,31 MB",
+          "url": "/infoseiten/Lm/wam02/doc/WAM02_0524K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6699,
+      "code": "BAWBBU01",
+      "name": "N. Gronau: ERP-Systeme",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2393,
+      "code": "DBI13",
+      "name": "Datenbanksprachen am Beispiel SQL",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI13_1213K02.pdf",
+          "content_type": "pdf",
+          "size": "1,05 MB",
+          "url": "/infoseiten/Lm/dbi13/doc/DBI13_1213K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5009,
+      "code": "ITI24",
+      "name": "TCP/IP-Protokollfamilie",
+      "type": "learning_module",
+      "study_month": 15,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI24_K08.pdf",
+          "content_type": "pdf",
+          "size": "5,77 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_K08.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI24_0124K08.html",
+          "content_type": "html",
+          "size": "14,14 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_0124K08.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI24_0124K08.epub",
+          "content_type": "epub",
+          "size": "10,36 MB",
+          "url": "/infoseiten/Lm/iti24/doc/ITI24_0124K08.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6296,
+      "code": "WAM03",
+      "name": "Wissenschaftliches Arbeiten Teil 2 – Forschungsmethoden und methodisch gestütztes Vorgehen",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "WAM03_0524K02.epub",
+          "content_type": "epub",
+          "size": "1,09 MB",
+          "url": "/infoseiten/Lm/wam03/doc/WAM03_0524K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "WAM03_0524K02.pdf",
+          "content_type": "pdf",
+          "size": "712,94 KB",
+          "url": "/infoseiten/Lm/wam03/doc/WAM03_0524K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "WAM03_0524K02.html",
+          "content_type": "html",
+          "size": "1,89 MB",
+          "url": "/infoseiten/Lm/wam03/doc/WAM03_0524K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 1588,
+      "code": "SAP_Einf",
+      "name": "Einführung SAP",
+      "type": "seminar",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2394,
+      "code": "DBI14",
+      "name": "Datenbankanwendungen",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI14_0818K02.epub",
+          "content_type": "epub",
+          "size": "2,98 MB",
+          "url": "/infoseiten/Lm/dbi14/doc/DBI14_0818K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "DBI14_0818K02.pdf",
+          "content_type": "pdf",
+          "size": "1,84 MB",
+          "url": "/infoseiten/Lm/dbi14/doc/DBI14_0818K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "DBI14_0818K02.html",
+          "content_type": "html",
+          "size": "5,30 MB",
+          "url": "/infoseiten/Lm/dbi14/doc/DBI14_0818K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5008,
+      "code": "ITI25",
+      "name": "Internetworking und Netzdesign",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI25_K06.epub",
+          "content_type": "epub",
+          "size": "11,66 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "ITI25_K06.pdf",
+          "content_type": "pdf",
+          "size": "7,10 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI25_K06.html",
+          "content_type": "html",
+          "size": "13,96 MB",
+          "url": "/infoseiten/Lm/iti25/doc/ITI25_K06.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2395,
+      "code": "DBI15",
+      "name": "Datenbanken in  Webanwendungen",
+      "type": "learning_module",
+      "study_month": 16,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI15_0316K02.pdf",
+          "content_type": "pdf",
+          "size": "2,08 MB",
+          "url": "/infoseiten/Lm/dbi15/doc/DBI15_0316K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 186,
+      "code": "DBI05",
+      "name": "Verteilte Datenbanken",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": {
+        "mark": null,
+        "mark_label": null,
+        "esa_send_date": null,
+        "esa_grade_date": null,
+        "mark_and_points_tooltip": null,
+        "exam_css_class": "",
+        "show_tick_mark": true
+      },
+      "documents": [
+        {
+          "filename": "DBI05_1107A04.pdf",
+          "content_type": "pdf",
+          "size": "6,53 MB",
+          "url": "/infoseiten/Lm/dbi05/doc/DBI05_1107A04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 6295,
+      "code": "WAM04",
+      "name": "Wissenschaftliches Arbeiten Teil 3 – Systematische Literaturauswertung",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "WAM04_0524K02.html",
+          "content_type": "html",
+          "size": "1,89 MB",
+          "url": "/infoseiten/Lm/wam04/doc/WAM04_0524K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "WAM04_0524K02.epub",
+          "content_type": "epub",
+          "size": "1,08 MB",
+          "url": "/infoseiten/Lm/wam04/doc/WAM04_0524K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "WAM04_0524K02.pdf",
+          "content_type": "pdf",
+          "size": "633,59 KB",
+          "url": "/infoseiten/Lm/wam04/doc/WAM04_0524K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2673,
+      "code": "BIN01",
+      "name": "Business Intelligence",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "BIN01_0222A02.pdf",
+          "content_type": "pdf",
+          "size": "1,94 MB",
+          "url": "/infoseiten/Lm/bin01/doc/BIN01_0222A02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "BIN01_0222A02.epub",
+          "content_type": "epub",
+          "size": "6,93 MB",
+          "url": "/infoseiten/Lm/bin01/doc/BIN01_0222A02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "BIN01_0222A02.html",
+          "content_type": "html",
+          "size": "9,56 MB",
+          "url": "/infoseiten/Lm/bin01/doc/BIN01_0222A02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5007,
+      "code": "ITI26",
+      "name": "Anwendungsdienste und Netzmanagement",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "ITI26_K05.html",
+          "content_type": "html",
+          "size": "13,09 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "ITI26_K05.pdf",
+          "content_type": "pdf",
+          "size": "3,49 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "ITI26_K05.epub",
+          "content_type": "epub",
+          "size": "9,66 MB",
+          "url": "/infoseiten/Lm/iti26/doc/ITI26_K05.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 7256,
+      "code": "PZM16",
+      "name": "Prozessmanagement Labor",
+      "type": "learning_module",
+      "study_month": 17,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "PZM16_0124K02.pdf",
+          "content_type": "pdf",
+          "size": "3,32 MB",
+          "url": "/infoseiten/Lm/pzm16/doc/PZM16_0124K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "PZM16_K02.html",
+          "content_type": "html",
+          "size": "11,35 MB",
+          "url": "/infoseiten/Lm/pzm16/doc/PZM16_K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "PZM16_K02.epub",
+          "content_type": "epub",
+          "size": "7,99 MB",
+          "url": "/infoseiten/Lm/pzm16/doc/PZM16_K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 4595,
+      "code": "B-PWAA01XX",
+      "name": "Projektmanagement und wissenschaftliches Arbeiten",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 791,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2666,
+      "code": "DBIAPS",
+      "name": "Datenbanksysteme",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": 5,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "ACID (oder Teile davon), DBMS-Architektur (ANSI-SPARC), ER-Diagramme, Normalformen, Relationales Modell, SQL sowohl DDL als auch DML, Transaktionsmanagement/Sperrverfahren"
+      },
+      "mark_and_points": {
+        "mark": "2.7",
+        "mark_label": "2.7",
+        "esa_send_date": "27.09.2025",
+        "esa_grade_date": "29.09.2025",
+        "mark_and_points_tooltip": "<b>Lösungseingang:</b> 27.09.2025<br /><b>Benotungsdatum:</b> 29.09.2025",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3772,
+      "code": "B-DBI02XX",
+      "name": "Datenbanken",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 210,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "2.7",
+        "mark_label": "2.7",
+        "esa_send_date": "21.09.2024",
+        "esa_grade_date": "22.09.2024",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 22.04.2025<br /><b>Zugewiesen am:</b> 17.03.2025<br /><b>Einsendung bis:</b> 19.10.2025<br /><b>Lösungseingang:</b> 21.09.2024<br /><b>Benotungsdatum:</b> 22.09.2024",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 8234,
+      "code": "BISB1PS",
+      "name": "Informationssysteme und Business Intelligence",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 1077,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "alles gedruckte oder handgeschriebene Material, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Ansätze zur Modellierung von Geschäftsprozessen, Anwendungsintegration, Betriebliche Ablaufstrukturen, Betriebliche Potenziale (Grundlagen), Betriebliche und unternehmensweite Anwendungssysteme, BI-Grundlagen, Geschäftsprozesse, Netzpläne"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4566,
+      "code": "ITICPS",
+      "name": "Informationstechnologie",
+      "type": "exam",
+      "study_month": 18,
+      "semester": 3,
+      "module_id": 802,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial, Wissenschaftlicher Taschenrechner, bspw. Casio fx/sx 82 oder 87, Casio fx 991 oder TI 30X. Nicht zugelassen sind Rechner, die über ein Display zur grafischen Darstellung von Funktionen verfügen oder programmierbar sind.",
+        "core_topics": "Kenngrößen von Übertragungsmedien und Netzen, MAC-Subschicht und Ethernet, IP-Adressierung und IP-Protokolle, Routing-Algorithmen und Routing-Protokolle, Netzkomponenten und Subnetze, Grundlagen der Informationstheorie und Informationsübertragung"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2840,
+      "code": "VII11",
+      "name": "Grundlagen verteilter Informationssysteme",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "VII11_0621K02.epub",
+          "content_type": "epub",
+          "size": "5,27 MB",
+          "url": "/infoseiten/Lm/vii11/doc/VII11_0621K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "VII11_0621K02.zip",
+          "content_type": "zip",
+          "size": "47,30 MB",
+          "url": "/infoseiten/Lm/vii11/doc/VII11_0621K02.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "VII11_0621K02.pdf",
+          "content_type": "pdf",
+          "size": "1,28 MB",
+          "url": "/infoseiten/Lm/vii11/doc/VII11_0621K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "VII11_0621K02.mp3",
+          "content_type": "mp3",
+          "size": "31,91 MB",
+          "url": "/infoseiten/Lm/vii11/doc/VII11_0621K02.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "VII11_0621K02.html",
+          "content_type": "html",
+          "size": "9,03 MB",
+          "url": "/infoseiten/Lm/vii11/doc/VII11_0621K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5013,
+      "code": "DTF01",
+      "name": "Grundlagen der digitalen Transformation",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 1041,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "DTF01_1121K02.html",
+          "content_type": "html",
+          "size": "7,54 MB",
+          "url": "/infoseiten/Lm/dtf01/doc/DTF01_1121K02.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "DTF01_1121K02.zip",
+          "content_type": "zip",
+          "size": "32,61 MB",
+          "url": "/infoseiten/Lm/dtf01/doc/DTF01_1121K02.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "DTF01_1121K02.pdf",
+          "content_type": "pdf",
+          "size": "875,87 KB",
+          "url": "/infoseiten/Lm/dtf01/doc/DTF01_1121K02.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "DTF01_1121K02.mp3",
+          "content_type": "mp3",
+          "size": "22,61 MB",
+          "url": "/infoseiten/Lm/dtf01/doc/DTF01_1121K02.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "DTF01_1121K02.epub",
+          "content_type": "epub",
+          "size": "4,21 MB",
+          "url": "/infoseiten/Lm/dtf01/doc/DTF01_1121K02.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2530,
+      "code": "IMR01",
+      "name": "IT-Management I",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 890,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IMR01_0717N01.zip",
+          "content_type": "zip",
+          "size": "104,76 MB",
+          "url": "/infoseiten/Lm/imr01/doc/IMR01_0717N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "IMR01_0717N01.epub",
+          "content_type": "epub",
+          "size": "4,84 MB",
+          "url": "/infoseiten/Lm/imr01/doc/IMR01_0717N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IMR01_0717N01.html",
+          "content_type": "html",
+          "size": "8,10 MB",
+          "url": "/infoseiten/Lm/imr01/doc/IMR01_0717N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "IMR01_0717N01.pdf",
+          "content_type": "pdf",
+          "size": "4,27 MB",
+          "url": "/infoseiten/Lm/imr01/doc/IMR01_0717N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IMR01_0717N01.mp3",
+          "content_type": "mp3",
+          "size": "90,79 MB",
+          "url": "/infoseiten/Lm/imr01/doc/IMR01_0717N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5306,
+      "code": "MMI11",
+      "name": "Multimedia-Grundlagen",
+      "type": "learning_module",
+      "study_month": 19,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MMI11_0922K04.mp3",
+          "content_type": "mp3",
+          "size": "75,42 MB",
+          "url": "/infoseiten/Lm/mmi11/doc/MMI11_0922K04.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "MMI11_0922K04.zip",
+          "content_type": "zip",
+          "size": "93,90 MB",
+          "url": "/infoseiten/Lm/mmi11/doc/MMI11_0922K04.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "MMI11_0922K04.epub",
+          "content_type": "epub",
+          "size": "9,20 MB",
+          "url": "/infoseiten/Lm/mmi11/doc/MMI11_0922K04.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MMI11_0922K04.pdf",
+          "content_type": "pdf",
+          "size": "3,27 MB",
+          "url": "/infoseiten/Lm/mmi11/doc/MMI11_0922K04.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MMI11_0922K04.html",
+          "content_type": "html",
+          "size": "11,32 MB",
+          "url": "/infoseiten/Lm/mmi11/doc/MMI11_0922K04.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2841,
+      "code": "VII12",
+      "name": "Grundlagen von Computernetzwerken",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "VII12_1122K08.zip",
+          "content_type": "zip",
+          "size": "95,06 MB",
+          "url": "/infoseiten/Lm/vii12/doc/VII12_1122K08.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "VII12_1122K08.html",
+          "content_type": "html",
+          "size": "10,35 MB",
+          "url": "/infoseiten/Lm/vii12/doc/VII12_1122K08.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "VII12_1122K08.mp3",
+          "content_type": "mp3",
+          "size": "75,81 MB",
+          "url": "/infoseiten/Lm/vii12/doc/VII12_1122K08.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "VII12_1122K08.pdf",
+          "content_type": "pdf",
+          "size": "2,72 MB",
+          "url": "/infoseiten/Lm/vii12/doc/VII12_1122K08.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "VII12_1122K08.epub",
+          "content_type": "epub",
+          "size": "6,32 MB",
+          "url": "/infoseiten/Lm/vii12/doc/VII12_1122K08.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5124,
+      "code": "DTF02",
+      "name": "Digitale Transformation",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 1041,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "DTF02_0219N01.mp3",
+          "content_type": "mp3",
+          "size": "82,62 MB",
+          "url": "/infoseiten/Lm/dtf02/doc/DTF02_0219N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "DTF02_0219N01.zip",
+          "content_type": "zip",
+          "size": "93,01 MB",
+          "url": "/infoseiten/Lm/dtf02/doc/DTF02_0219N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "DTF02_0219N01.html",
+          "content_type": "html",
+          "size": "7,36 MB",
+          "url": "/infoseiten/Lm/dtf02/doc/DTF02_0219N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "DTF02_0219N01.pdf",
+          "content_type": "pdf",
+          "size": "2,49 MB",
+          "url": "/infoseiten/Lm/dtf02/doc/DTF02_0219N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "DTF02_0219N01.epub",
+          "content_type": "epub",
+          "size": "6,81 MB",
+          "url": "/infoseiten/Lm/dtf02/doc/DTF02_0219N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 2531,
+      "code": "IMR02",
+      "name": "IT-Management II",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 890,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "IMR02_0617N01.zip",
+          "content_type": "zip",
+          "size": "79,68 MB",
+          "url": "/infoseiten/Lm/imr02/doc/IMR02_0617N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "IMR02_0617N01.mp3",
+          "content_type": "mp3",
+          "size": "68,34 MB",
+          "url": "/infoseiten/Lm/imr02/doc/IMR02_0617N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "IMR02_0617N01.pdf",
+          "content_type": "pdf",
+          "size": "1,76 MB",
+          "url": "/infoseiten/Lm/imr02/doc/IMR02_0617N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "IMR02_0617N01.epub",
+          "content_type": "epub",
+          "size": "3,94 MB",
+          "url": "/infoseiten/Lm/imr02/doc/IMR02_0617N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "IMR02_0617N01.html",
+          "content_type": "html",
+          "size": "6,31 MB",
+          "url": "/infoseiten/Lm/imr02/doc/IMR02_0617N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 5751,
+      "code": "MMI12",
+      "name": "Kommunikation im Web und clientseitige Websprachen",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MMI12_0420N01.mp3",
+          "content_type": "mp3",
+          "size": "99,83 MB",
+          "url": "/infoseiten/Lm/mmi12/doc/MMI12_0420N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "MMI12_0420N01.zip",
+          "content_type": "zip",
+          "size": "117,40 MB",
+          "url": "/infoseiten/Lm/mmi12/doc/MMI12_0420N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        },
+        {
+          "filename": "MMI12_0420N01.html",
+          "content_type": "html",
+          "size": "8,26 MB",
+          "url": "/infoseiten/Lm/mmi12/doc/MMI12_0420N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MMI12_0420N01.pdf",
+          "content_type": "pdf",
+          "size": "3,12 MB",
+          "url": "/infoseiten/Lm/mmi12/doc/MMI12_0420N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MMI12_0420N01.epub",
+          "content_type": "epub",
+          "size": "5,94 MB",
+          "url": "/infoseiten/Lm/mmi12/doc/MMI12_0420N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 8391,
+      "code": "GDT200",
+      "name": "Begleitheft zu GDT2BU",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 1041,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "GDT200_0325N01.epub",
+          "content_type": "epub",
+          "size": "1,47 MB",
+          "url": "/infoseiten/Lm/gdt200/doc/GDT200_0325N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "GDT200_0325N01.pdf",
+          "content_type": "pdf",
+          "size": "1,61 MB",
+          "url": "/infoseiten/Lm/gdt200/doc/GDT200_0325N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "GDT200_0325N01.html",
+          "content_type": "html",
+          "size": "2,90 MB",
+          "url": "/infoseiten/Lm/gdt200/doc/GDT200_0325N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 8390,
+      "code": "GDT2BU",
+      "name": "Digitale Transformation gestalten",
+      "type": "learning_module",
+      "study_month": 20,
+      "semester": 4,
+      "module_id": 1041,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5752,
+      "code": "MMI13",
+      "name": "Serverseitige Websprachen",
+      "type": "learning_module",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [
+        {
+          "filename": "MMI13_0820N01.epub",
+          "content_type": "epub",
+          "size": "4,94 MB",
+          "url": "/infoseiten/Lm/mmi13/doc/MMI13_0820N01.epub",
+          "description": "für eBook-Reader und mobile Geräte optimiertes Format. Sie benötigen je nach Gerät eine spezielle App oder einen eBook-Reader."
+        },
+        {
+          "filename": "MMI13_0820N01.mp3",
+          "content_type": "mp3",
+          "size": "120,42 MB",
+          "url": "/infoseiten/Lm/mmi13/doc/MMI13_0820N01.mp3",
+          "description": "besonders praktisch: vertontes Studienheft im MP3-Format zum Abspielen auf PC oder mobilen Geräten."
+        },
+        {
+          "filename": "MMI13_0820N01.html",
+          "content_type": "html",
+          "size": "8,60 MB",
+          "url": "/infoseiten/Lm/mmi13/doc/MMI13_0820N01.html",
+          "description": "Ihre Lernunterlagen passen sich Ihrem Tablet, Ihrem Handy und auch Ihrem PC Bildschirm optimal an."
+        },
+        {
+          "filename": "MMI13_0820N01.pdf",
+          "content_type": "pdf",
+          "size": "2,18 MB",
+          "url": "/infoseiten/Lm/mmi13/doc/MMI13_0820N01.pdf",
+          "description": "Studienheft im PDF-Format, ideal zum Lernen auf dem PC oder Tablet."
+        },
+        {
+          "filename": "MMI13_0820N01.zip",
+          "content_type": "zip",
+          "size": "136,36 MB",
+          "url": "/infoseiten/Lm/mmi13/doc/MMI13_0820N01.zip",
+          "description": "Nach Kapiteln aufgeteiltes, vertontes Studienheft, individuelle Playlist und weitere praktische Features. Inkl. HTML-Version."
+        }
+      ],
+      "sub_elements": []
+    },
+    {
+      "id": 8917,
+      "code": "B-GDT02XX",
+      "name": "Gestaltung der Digitalen Transformation",
+      "type": "exam",
+      "study_month": 21,
+      "semester": 4,
+      "module_id": 1041,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2842,
+      "code": "VII13",
+      "name": "Interprozess-Kommunikation",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7264,
+      "code": "RIM11",
+      "name": "Einführung in das IT-Recht - Grundzüge des Immaterialgüterrechts und IT-Vertragsrecht",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 890,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5753,
+      "code": "MMI14",
+      "name": "Web-Anwendungen: Applikationen und Frameworks",
+      "type": "learning_module",
+      "study_month": 22,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2843,
+      "code": "VII14",
+      "name": "Programmierung für verteilte Systeme",
+      "type": "learning_module",
+      "study_month": 23,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2844,
+      "code": "VII15",
+      "name": "Sicherheit",
+      "type": "learning_module",
+      "study_month": 23,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5754,
+      "code": "MMI15",
+      "name": "Virtuelle Realität",
+      "type": "learning_module",
+      "study_month": 23,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4961,
+      "code": "VIIDPS",
+      "name": "Verteilte Informationsverarbeitung",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 882,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Adressierung & Routing, Architektur verteilter Systeme, Prozesse & Threads, Sockets (TCP, UDP), Grundlagen RPC, Client-Server-Anwendungen, Verschlüsselung & Digitale Signatur"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 7268,
+      "code": "IMRB1PS",
+      "name": "IT-Management und -Recht",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 890,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Zeichenmaterial",
+        "core_topics": "IT-compliance, IT-Controlling, ITIL, IT-Sicherheitsmanagement, IT-Vertragsrecht, Strategien im IT-Management, Daten- und Informationsmanagement, Gouvernante, Risiko und Compliance, Grundzüge des Immaterialgüterrechts, IT-Anforderungsmanagement, IT-Projektmanagement"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5771,
+      "code": "B-MUMB01XX",
+      "name": "Multimedia-Grundlagen",
+      "type": "exam",
+      "study_month": 24,
+      "semester": 4,
+      "module_id": 1082,
+      "credit_points": 8,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4347,
+      "code": "PRJR",
+      "name": "Projektstart",
+      "type": "seminar",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 74,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4358,
+      "code": "ProPräsentation",
+      "name": "Projektpräsentation",
+      "type": "seminar",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 74,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2146,
+      "code": "Projektarbeit",
+      "name": "Projektarbeit",
+      "type": "exam",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 74,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3355,
+      "code": "FUM01Z",
+      "name": "Mitarbeiter führen und motivieren",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3356,
+      "code": "FUM02Z",
+      "name": "Grundlagen der Führung",
+      "type": "learning_module",
+      "study_month": 25,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3360,
+      "code": "FUM09Z",
+      "name": "Führung und Konfliktlösung",
+      "type": "learning_module",
+      "study_month": 26,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3358,
+      "code": "FUM05Z",
+      "name": "Führungstechniken und Führungsinstrumente",
+      "type": "learning_module",
+      "study_month": 27,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 3357,
+      "code": "FUM03Z",
+      "name": "Führung und Kommunikation",
+      "type": "learning_module",
+      "study_month": 28,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5471,
+      "code": "FUM10aZ",
+      "name": "Führung und Moderation",
+      "type": "learning_module",
+      "study_month": 29,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 5437,
+      "code": "FUM-O10Z",
+      "name": "WBT Moderation",
+      "type": "learning_module",
+      "study_month": 29,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 1608,
+      "code": "B-BEL01XX",
+      "name": "Business English",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 794,
+      "credit_points": 3,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "2.0",
+        "mark_label": "2.0",
+        "esa_send_date": "11.06.2023",
+        "esa_grade_date": "23.06.2023",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 01.03.2024<br /><b>Zugewiesen am:</b> 01.03.2024<br /><b>Einsendung bis:</b> 28.08.2024<br /><b>Lösungseingang:</b> 11.06.2023<br /><b>Benotungsdatum:</b> 23.06.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2594,
+      "code": "KFIAPM",
+      "name": "Kommunikation und Führung",
+      "type": "exam",
+      "study_month": 30,
+      "semester": 5,
+      "module_id": 432,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": "Keine",
+        "core_topics": "Axiome der Kommunikation und Kommunikationsmodell nach Schulz-von-Thun, Führungsstile und Führungstechniken, Konfliktdiagnose, Konfliktdynamik, Megatrends und Zukunftsthemen für Führungskräfte, Motivationstheorien, Nonverbale Kommunikation, Schlüsselqualifikationen"
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2147,
+      "code": "Thesis",
+      "name": "Thesis",
+      "type": "exam",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 406,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2131,
+      "code": "SER01-H",
+      "name": "Servicemanagement: Grundlagen",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 840,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6403,
+      "code": "KII00",
+      "name": "Begleitheft zu KIIBU",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6400,
+      "code": "KIIBU",
+      "name": "Künstliche Intelligenz von Buxmann und Schmidt",
+      "type": "learning_module",
+      "study_month": 31,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2132,
+      "code": "SER02-H",
+      "name": "Servicemanagement: Kundenorientierung und Qualitätssicherung",
+      "type": "learning_module",
+      "study_month": 32,
+      "semester": 6,
+      "module_id": 840,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2057,
+      "code": "KII04a",
+      "name": "Künstliche Neuronale Netze",
+      "type": "learning_module",
+      "study_month": 32,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6402,
+      "code": "KII11",
+      "name": "Grundlagen der Künstlichen Intelligenz",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2133,
+      "code": "SER03-H",
+      "name": "Servicemanagement: Umsetzung und Marketingkommunikation",
+      "type": "learning_module",
+      "study_month": 34,
+      "semester": 6,
+      "module_id": 840,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6401,
+      "code": "KII12",
+      "name": "Verteilte künstliche Intelligenz",
+      "type": "learning_module",
+      "study_month": 35,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 704,
+      "code": "B-MRT01XX",
+      "name": "Digital- und Mikrorechentechnik",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 10,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": {
+        "mark": "3.3",
+        "mark_label": "3.3",
+        "esa_send_date": "22.05.2023",
+        "esa_grade_date": "04.06.2023",
+        "mark_and_points_tooltip": "<b>Angefordert am:</b> 01.03.2024<br /><b>Zugewiesen am:</b> 01.03.2024<br /><b>Einsendung bis:</b> 28.08.2024<br /><b>Lösungseingang:</b> 22.05.2023<br /><b>Benotungsdatum:</b> 04.06.2023",
+        "exam_css_class": "examPassed",
+        "show_tick_mark": true
+      },
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 4702,
+      "code": "B-SMA02XX",
+      "name": "Servicemanagement",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 840,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 6381,
+      "code": "B-KIEA01XX",
+      "name": "Einführung und Anwendung der Künstlichen Intelligenz",
+      "type": "exam",
+      "study_month": 36,
+      "semester": 6,
+      "module_id": 1196,
+      "credit_points": 6,
+      "is_passed": false,
+      "exam_info": {
+        "exam_form": null,
+        "prerequisites": null,
+        "allowed_aids": null,
+        "core_topics": null
+      },
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    },
+    {
+      "id": 2217,
+      "code": "BPP",
+      "name": "Berufspraktische Phase",
+      "type": "exam",
+      "study_month": 37,
+      "semester": 7,
+      "module_id": 509,
+      "credit_points": null,
+      "is_passed": false,
+      "exam_info": null,
+      "mark_and_points": null,
+      "documents": [],
+      "sub_elements": []
+    }
+  ]
+}
