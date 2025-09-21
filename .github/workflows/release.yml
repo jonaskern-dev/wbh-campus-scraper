@@ -20,6 +20,7 @@ jobs:
     - name: Verify version matches tag
       run: |
         TAG_VERSION=${GITHUB_REF#refs/tags/v}
+        pip install setuptools
         SETUP_VERSION=$(python setup.py --version)
         if [ "$TAG_VERSION" != "$SETUP_VERSION" ]; then
           echo "Version mismatch: Tag v$TAG_VERSION != setup.py $SETUP_VERSION"
